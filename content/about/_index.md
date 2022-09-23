@@ -34,17 +34,3 @@ There are different requirements for presentations depending on the nature of th
 list of suggestions for [where to find topics](/about/find-topics) for future seminars.
 
 [Socratic Seminar]: https://en.wikipedia.org/wiki/Socratic_method#Socratic_seminar
-
-### Sponsors
-
-Special thanks to to our ongoing sponsor who's donations help pay for venue rental and other meetup expenses. 
-<br>
-<br>
-
-<a href="https://bitcoinpark.co/">
- <img src="/bitcoinpark_logo.png" alt="Bitcoin Park Logo" style="width:50%;height:50%;border:0;">
-</a>
- 
-[Bitcoin Park](https://bitcoinpark.co/) - A community supported campus in Nashville focused on grassroots bitcoin adoption and a home for bitcoiners to work, learn, collaborate, and build.
-<br>
-<br>
