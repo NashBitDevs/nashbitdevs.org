@@ -2,7 +2,7 @@
 title = "NashBitDevs Socratic Seminar #0"
 template = "post.html"
 [extra]
-meetup_id = ""
+meetup_id = "288654668"
 +++
 
 ### Agenda
@@ -44,6 +44,7 @@ for food, refreshments and event space.
   - [Bitcoin Chattanooga](https://www.meetup.com/bitcoin-chattanooga/events/tpqzwsydcnblb/) Oct. 8
   - [Nashbitcoiners #14](https://www.meetup.com/nashbitcoiners/events/288422378/) Oct. 12
   - [TABconf](https://tabconf.com/) Oct. 12-15
+  - [Bitcoin Designathon 2022](https://event.bitcoin.design) Oct. 12-23
 
 #### Network Stats
 
