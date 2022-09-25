@@ -21,5 +21,5 @@ description = "NashBitDevs is a community in the Nashville area for those intere
 # Put all your custom variables here
 
 github = "https://github.com/nashbitdevs/nashbitdevs.org"
-meetup = "https://www.meetup.com/bitcoinpark/events"
+meetup = "https://www.meetup.com/bitcoinpark/"
 discord = "https://discord.gg/v2NmVZC63q"
