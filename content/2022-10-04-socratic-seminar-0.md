@@ -59,6 +59,7 @@ for food, refreshments and event space.
   - [LN "Channel Jamming Book"](https://jamming-dev.github.io/book/)
   - [elsirion "FediMint public signet instance"](https://twitter.com/EricSirion/status/1572329210727010307)
   - [calle "Cashu a Chaumian Ecash wallet and mint"](https://twitter.com/callebtc/status/1569986110272540674)
+  - [renepickhardt "The Power of Valves for Better Flow Control, ..."](https://blog.bitmex.com/the-power-of-htlc_maximum_msat-as-a-control-valve-for-better-flow-control-improved-reliability-and-lower-expected-payment-failure-rates-on-the-lightning-network/)
 
 #### Bitcoin Projects
 
