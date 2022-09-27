@@ -45,6 +45,7 @@ for food, refreshments and event space.
   - [Nashbitcoiners #14](https://www.meetup.com/nashbitcoiners/events/288422378/) Oct. 12
   - [TABconf](https://tabconf.com/) Oct. 12-15
   - [Bitcoin Designathon 2022](https://event.bitcoin.design) Oct. 12-23
+  - [Legends of Lightning](https://makers.bolt.fun/tournaments/1/overview) Oct. 11 - Dec. 7
 
 #### Network Stats
 
