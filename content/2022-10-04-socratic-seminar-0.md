@@ -91,3 +91,5 @@ for food, refreshments and event space.
      - [Bitcoin Optech "Offers"](https://bitcoinops.org/en/topics/offers/)
    - [Support filtered blocks in lightning-block-sync #1706](https://github.com/lightningdevkit/rust-lightning/pull/1706)
      - [Bitcoin Optech "Compact block filters"](https://bitcoinops.org/en/topics/compact-block-filters/)
+   - [Announcing Rapid Gossip Sync](https://lightningdevkit.org/blog/announcing-rapid-gossip-sync/)
+     - [rapid-gossip-sync-server](https://github.com/lightningdevkit/rapid-gossip-sync-server)
