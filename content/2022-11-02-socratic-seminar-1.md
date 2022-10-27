@@ -7,8 +7,8 @@ meetup_id = "288668623"
 
 ### Agenda
 
-6:30pm Meet and Greet and Pizza  
-7:00pm Socratic Seminar where we review various Bitcoin topics   
+6:00pm Meet and Greet and Pizza  
+6:30pm Socratic Seminar where we review various Bitcoin topics   
 8:00pm Further hanging at The Moxy Hotel bar  
 
 ### Location
@@ -40,7 +40,10 @@ for food, refreshments and event space.
 
 #### News and Events
 
-  - TBD
+  - TabConf wrap-up
+  - Thr. Nov 3, Open House - [Bitcoin and Public Policy](https://www.meetup.com/bitcoinpark/events/287981464/)
+  - Mon. Oct 31, Bitcoin Magazine [Art Gallery: Grand Opening](https://www.meetup.com/nashbitcoiners/events/289259871/)
+  - Wed. Nov 9, Bitcoin Meetup Nashville [#15 - Talking Bitcoin Over the Holidays](https://www.meetup.com/nashbitcoiners/events/288725249/)
 
 #### Network Stats
 
@@ -49,32 +52,29 @@ for food, refreshments and event space.
   
 #### New Work / Research
 
-  - TBD
-
+  - ["Hello Taro: Building the (Tap)Root of the World's Financial Network with Bitcoin"](https://lightning.engineering/posts/2022-9-28-taro-launch/)
+  - Block ["How we design our hardware"](https://wallet.build/how-we-design-our-hardware/)
+  
 #### Bitcoin Projects
 
 ##### Bitcoin Core
 
-   - TBD
+ - BIP324: Enable v2 P2P encrypted transport [#24545](https://github.com/bitcoin/bitcoin/pull/24545)
+    - Add BIP324: v2 P2P Transport Protocol [#1378](https://github.com/bitcoin/bips/pull/1378)
+ - Core:  Enable mempoolfullrbf=1 by default [#26305](https://github.com/bitcoin/bitcoin/pull/26305)
 
 ##### Bitcoin Dev Kit
 
-   - TBD
+  - Add HWI example in docs [#758](https://github.com/bitcoindevkit/bdk/pull/758)
 
 #### Lightning Projects
-
-##### Core Lightning
-
-- TBD
-
-##### Eclair
-
-   - TBD
      
 ##### Lightning Dev Kit
 
-   - TBD
+   - [Onion Messages Demystified](https://lightningdevkit.org/blog/onion-messages-demystified/)
 
 ##### LND
 
-- TBD
+  - [998-of-999 tapscript multisig transaction](https://twitter.com/brqgoo/status/1579216353780957185)
+    - [Roasbeef GitHub comment](https://github.com/lightningnetwork/lnd/issues/7002#issuecomment-1272654613)
+    - [Roasbeef Twitter comment](https://twitter.com/roasbeef/status/1579276764529860610)
