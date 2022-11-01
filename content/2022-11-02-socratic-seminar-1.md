@@ -78,3 +78,7 @@ for food, refreshments and event space.
   - [998-of-999 tapscript multisig transaction](https://twitter.com/brqgoo/status/1579216353780957185)
     - [Roasbeef GitHub comment](https://github.com/lightningnetwork/lnd/issues/7002#issuecomment-1272654613)
     - [Roasbeef Twitter comment](https://twitter.com/roasbeef/status/1579276764529860610)
+  - Consensus conflict caused by maxWitnessItemsPerInput [#1906](https://github.com/btcsuite/btcd/issues/1906)  
+     - ["Sometimes to find the light, we must first touch the darkness."](https://twitter.com/brqgoo/status/1587397646125260802) 
+     - ["older versions of electrs are also broken (however, the latest 0.9.9 is fine)..."](https://twitter.com/byronhambly/status/1587505017866567687)  
+     - ["The Liquid Federation Watchmen are currently affected by a bug in the rust-bitcoin library..."](https://twitter.com/Liquid_BTC/status/1587499305664913413)
