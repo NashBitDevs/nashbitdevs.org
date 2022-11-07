@@ -7,7 +7,7 @@ meetup_id = "288668680"
 
 ### Agenda
 
-6:00pm Meet and Greet and Pizza  
+5:30pm Meet and Greet and Pizza  
 6:30pm Socratic Seminar where we review various Bitcoin topics   
 8:00pm Further hanging at The Moxy Hotel bar  
 
