@@ -36,12 +36,19 @@ for food, refreshments and event space.
    - Leave the meeting space as clean as you found it
    - Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
 
+### Raffle
+
+  - Pick the [next block nonce](https://mempool.space/mempool-block/0)
+  - Must be 8 hex characters, `0-9` and `A-F`, eg. `9A74E2B1`
+  - Write your name and nonce on paper and give to Steve
+
 ### Socratic Seminar
 
 #### News and Events
 
   - [Bitcoin Park Events](https://www.meetup.com/bitcoinpark/events/)
   - [NashBitcoiners Events](https://www.meetup.com/nashbitcoiners/events/)
+  - Replit bounty, [Submit your first PR to BDK or LDK](https://twitter.com/hhua_/status/1596206401730539520)
 
 #### Network Stats
 
@@ -50,32 +57,20 @@ for food, refreshments and event space.
   
 #### New Work / Research
 
-  - TBD
+   - [Mutiny launch](https://twitter.com/benthecarman/status/1595395624010190850) built on BDK and LDK
+   - [Bitcoin core development analysis](https://twitter.com/thomas_fahrer/status/1595578163446382593) by NYDIG
+   - ["Contributing to Bitcoin - tips and tricks"](https://danielabrozzoni.com/posts/contributing_to_oss/) by [Daniela Brozzoni](https://twitter.com/danielabrozzoni)
+   - The Chaincode Podcast: [Clara and Sergei – solving Lightning jamming](https://podcast.chaincode.com/2022/11/23/clara-sergei-lightning-jamming.html)
   
 #### Bitcoin Projects
 
 ##### Bitcoin Core
 
- - TBD
-
-##### Bitcoin Dev Kit
-
-  - TBD
+ - Bitcoin Core [v24.0 release](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-24.0.md)
+ - Bitcoin Core PR Review Club: [Bump unconfirmed ancestor transactions to target feerate](https://bitcoincore.reviews/26152-2)
 
 #### Lightning Projects
-
-##### Core Lightning
-
-- TBD
-
-##### Eclair
-
-- TBD
      
 ##### Lightning Dev Kit
 
-   - TBD
-
-##### LND
-
-- TBD
+   - Key management with [LDK](https://lightningdevkit.org/key_management/#creating-a-unified-wallet) (and [BDK](https://bitcoindevkit.org))
