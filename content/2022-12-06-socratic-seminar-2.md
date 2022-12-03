@@ -38,9 +38,10 @@ for food, refreshments and event space.
 
 ### Raffle
 
-  - Pick the [next block nonce](https://mempool.space/mempool-block/0)
-  - Must be 8 hex characters, `0-9` and `A-F`, eg. `9A74E2B1`
-  - Write your name and nonce on paper and give to Steve
+  - Guess the [next block nonce](https://mempool.space/mempool-block/0)
+    - Must be 8 hex characters, `0-9` and `A-F`, eg. `9A74E2B1`
+    - Write your name and nonce on paper and give to Steve
+  - Winner(s) ranked by numerical closeness to next block nonce
 
 ### Socratic Seminar
 
