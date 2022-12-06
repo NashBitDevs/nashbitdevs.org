@@ -59,9 +59,11 @@ for food, refreshments and event space.
 #### New Work / Research
 
    - [Mutiny launch](https://twitter.com/benthecarman/status/1595395624010190850) built on BDK and LDK
-   - [Bitcoin core development analysis](https://twitter.com/thomas_fahrer/status/1595578163446382593) by NYDIG
-   - ["Contributing to Bitcoin - tips and tricks"](https://danielabrozzoni.com/posts/contributing_to_oss/) by [Daniela Brozzoni](https://twitter.com/danielabrozzoni)
+   - NYDIG: [Bitcoin core development analysis](https://twitter.com/thomas_fahrer/status/1595578163446382593)
+   - [Daniela Brozzoni](https://twitter.com/danielabrozzoni): ["Contributing to Bitcoin - tips and tricks"](https://danielabrozzoni.com/posts/contributing_to_oss/)
    - The Chaincode Podcast: [Clara and Sergei – solving Lightning jamming](https://podcast.chaincode.com/2022/11/23/clara-sergei-lightning-jamming.html)
+   - Tony: [Using LNsploit to Steal from LND nodes](https://abytesjourney.com/using-lnsploit-to-steal-from-lnd-nodes/)
+   - Lightning Privacy Research: [Introduction](https://lightningprivacy.com/en/introduction)
   
 #### Bitcoin Projects
 
