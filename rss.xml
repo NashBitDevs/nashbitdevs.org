@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>NashBitDevs</title>
+        <link>https://nashbitdevs.org</link>
+        <description>NashBitDevs is a community in the Nashville area for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software.</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://nashbitdevs.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>NashBitDevs Socratic Seminar #3</title>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+            <link>https://nashbitdevs.org/socratic-seminar-3/</link>
+            <guid>https://nashbitdevs.org/socratic-seminar-3/</guid>
+            <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;5:30pm Meet and Greet and Pizza&lt;br &#x2F;&gt;
+6:30pm Socratic Seminar where we review various Bitcoin topics&lt;br &#x2F;&gt;
+8:00pm Further hanging at The Moxy Hotel bar&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Bitcoin Park&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;VIP conference room&lt;br &#x2F;&gt;
+1910 21st Ave S&lt;br &#x2F;&gt;
+Nashville, TN  37212&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;1910+21st+Ave+S,+Nashville,+TN+37212&#x2F;@36.1347819,-86.8029863,17z&#x2F;data=!3m1!4b1!4m5!3m4!1s0x8864669fea1ce71d:0xdc34986293b94f39!8m2!3d36.1347819!4d-86.8007923&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;about&#x2F;bitcoinpark-parking&quot;&gt;Parking Info&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;Join us for the NashBitDevs &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our 
+sponsors &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinpark.co&#x2F;&quot;&gt;Bitcoin Park&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;
+for food, refreshments and event space.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;raffle&quot;&gt;Raffle&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Guess the &lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;mempool-block&#x2F;0&quot;&gt;next block nonce&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Must be 8 hex characters, &lt;code&gt;0-9&lt;&#x2F;code&gt; and &lt;code&gt;A-F&lt;&#x2F;code&gt;, eg. &lt;code&gt;9A74E2B1&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Winner(s) ranked by numerical closeness to next block nonce&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;events&quot;&gt;Events&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;bitcoinpark&#x2F;events&#x2F;288587964&#x2F;&quot;&gt;Open House - Mining to the Moon&lt;&#x2F;a&gt;, Wed. Jan 11 16:30&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;bitcoinpark&#x2F;events&#x2F;290296920&#x2F;&quot;&gt;Workshop - Bitcoin Dev Kit (BDK) with the BDK Team&lt;&#x2F;a&gt;, Sat. Feb 11 10:00&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;bitcoinpark&#x2F;events&#x2F;290771105&#x2F;&quot;&gt;Workshop - Inscriptions: Turning Sats into Digital Artifacts&lt;&#x2F;a&gt;, Sat. Feb 11 13:30&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;news&quot;&gt;News&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;bitcoin-company-layer-2-labs-raises-3m&quot;&gt;&amp;quot;Layer 2 Labs Raises $3M At Launch To Supercharge Bitcoin&#x27;s Ecosystem&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.udemy.com&#x2F;course&#x2F;pleblabaustin&#x2F;#instructor-1&quot;&gt;PlebDev Course I: Building a Lightning App&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;LukeDashjr&#x2F;status&#x2F;1609613748364509184&quot;&gt;LukeDashJr PGP Key Compromised&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work &#x2F; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2022&#x2F;12&#x2F;21&#x2F;&quot;&gt;&amp;quot;Bitcoin Optech Newsletter #231: 2022 Year-in-Review Special&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lopp.net&#x2F;bitcoin-2022-annual-review&#x2F;&quot;&gt;Lopp&#x27;s &amp;quot;Bitcoin 2022 Annual Review&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;dergigi&#x2F;1ee8dc7e3da4b6572ed785ab24bc9907&quot;&gt;nostr tips and tricks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.ordinals.com&#x2F;guides&#x2F;inscriptions.html&quot;&gt;Ordinal Inscriptions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-projects&quot;&gt;Bitcoin Projects&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-December&#x2F;021270.html&quot;&gt;[bitcoin-dev] Full-RBF Peering Bitcoin Core v24.0.1 Released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;bitcoin-dev-kit&quot;&gt;Bitcoin Dev Kit&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;New release &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoindevkit&#x2F;bdk&#x2F;releases&#x2F;tag&#x2F;v0.26.0&quot;&gt;0.26.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Tutorial by &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;sandipndev&quot;&gt;Sandipan&lt;&#x2F;a&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;bitcoindevkit.org&#x2F;tutorials&#x2F;hidden-power-of-bitcoin&#x2F;&quot;&gt;Hidden Powers of Miniscript Policy &amp;amp; Descriptors&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning-projects&quot;&gt;Lightning Projects&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;blue-wallet&quot;&gt;Blue Wallet&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BlueWallet&#x2F;BlueWallet&#x2F;pull&#x2F;5252&quot;&gt;FIX: error when scanning some bip21 uris (closes #4931) #5252 &lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix handling of &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0021.mediawiki&quot;&gt;bip-0021&lt;&#x2F;a&gt; based unified bitcoin QR codes&lt;&#x2F;li&gt;
+&lt;li&gt;Why &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinqr.dev&quot;&gt;Unified QR codes for Bitcoin&lt;&#x2F;a&gt;?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;eclair&quot;&gt;Eclair&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2482&quot;&gt;Send payments to blinded routes #2482&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+        </item>
+        <item>
+            <title>NashBitDevs Socratic Seminar #2</title>
+            <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+            <link>https://nashbitdevs.org/socratic-seminar-2/</link>
+            <guid>https://nashbitdevs.org/socratic-seminar-2/</guid>
+            <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;5:30pm Meet and Greet and Pizza&lt;br &#x2F;&gt;
+6:30pm Socratic Seminar where we review various Bitcoin topics&lt;br &#x2F;&gt;
+8:00pm Further hanging at The Moxy Hotel bar&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Bitcoin Park&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;VIP conference room&lt;br &#x2F;&gt;
+1910 21st Ave S&lt;br &#x2F;&gt;
+Nashville, TN  37212&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;1910+21st+Ave+S,+Nashville,+TN+37212&#x2F;@36.1347819,-86.8029863,17z&#x2F;data=!3m1!4b1!4m5!3m4!1s0x8864669fea1ce71d:0xdc34986293b94f39!8m2!3d36.1347819!4d-86.8007923&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;about&#x2F;bitcoinpark-parking&quot;&gt;Parking Info&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;Join us for the NashBitDevs &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our 
+sponsors &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinpark.co&#x2F;&quot;&gt;Bitcoin Park&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;
+for food, refreshments and event space.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;raffle&quot;&gt;Raffle&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Guess the &lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;mempool-block&#x2F;0&quot;&gt;next block nonce&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Must be 8 hex characters, &lt;code&gt;0-9&lt;&#x2F;code&gt; and &lt;code&gt;A-F&lt;&#x2F;code&gt;, eg. &lt;code&gt;9A74E2B1&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Write your name and nonce on paper and give to Steve&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Winner(s) ranked by numerical closeness to next block nonce&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;news-and-events&quot;&gt;News and Events&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;bitcoinpark&#x2F;events&#x2F;&quot;&gt;Bitcoin Park Events&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;nashbitcoiners&#x2F;events&#x2F;&quot;&gt;NashBitcoiners Events&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Replit bounty, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;hhua_&#x2F;status&#x2F;1596206401730539520&quot;&gt;Submit your first PR to BDK or LDK&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work &#x2F; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;benthecarman&#x2F;status&#x2F;1595395624010190850&quot;&gt;Mutiny launch&lt;&#x2F;a&gt; built on BDK and LDK&lt;&#x2F;li&gt;
+&lt;li&gt;NYDIG: &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;thomas_fahrer&#x2F;status&#x2F;1595578163446382593&quot;&gt;Bitcoin core development analysis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;danielabrozzoni&quot;&gt;Daniela Brozzoni&lt;&#x2F;a&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;danielabrozzoni.com&#x2F;posts&#x2F;contributing_to_oss&#x2F;&quot;&gt;&amp;quot;Contributing to Bitcoin - tips and tricks&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;The Chaincode Podcast: &lt;a href=&quot;https:&#x2F;&#x2F;podcast.chaincode.com&#x2F;2022&#x2F;11&#x2F;23&#x2F;clara-sergei-lightning-jamming.html&quot;&gt;Clara and Sergei – solving Lightning jamming&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Tony: &lt;a href=&quot;https:&#x2F;&#x2F;abytesjourney.com&#x2F;using-lnsploit-to-steal-from-lnd-nodes&#x2F;&quot;&gt;Using LNsploit to Steal from LND nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Lightning Privacy Research: &lt;a href=&quot;https:&#x2F;&#x2F;lightningprivacy.com&#x2F;en&#x2F;introduction&quot;&gt;Introduction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-projects&quot;&gt;Bitcoin Projects&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Bitcoin Core &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;blob&#x2F;master&#x2F;doc&#x2F;release-notes&#x2F;release-notes-24.0.md&quot;&gt;v24.0 release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Bitcoin Core PR Review Club: &lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.reviews&#x2F;26152-2&quot;&gt;Bump unconfirmed ancestor transactions to target feerate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning-projects&quot;&gt;Lightning Projects&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;lightning-dev-kit&quot;&gt;Lightning Dev Kit&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Key management with &lt;a href=&quot;https:&#x2F;&#x2F;lightningdevkit.org&#x2F;key_management&#x2F;#creating-a-unified-wallet&quot;&gt;LDK&lt;&#x2F;a&gt; (and &lt;a href=&quot;https:&#x2F;&#x2F;bitcoindevkit.org&quot;&gt;BDK&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+        </item>
+        <item>
+            <title>NashBitDevs Socratic Seminar #1</title>
+            <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+            <link>https://nashbitdevs.org/socratic-seminar-1/</link>
+            <guid>https://nashbitdevs.org/socratic-seminar-1/</guid>
+            <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;6:00pm Meet and Greet and Pizza&lt;br &#x2F;&gt;
+6:30pm Socratic Seminar where we review various Bitcoin topics&lt;br &#x2F;&gt;
+8:00pm Further hanging at The Moxy Hotel bar&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Bitcoin Park&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;VIP conference room&lt;br &#x2F;&gt;
+1910 21st Ave S&lt;br &#x2F;&gt;
+Nashville, TN  37212&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;1910+21st+Ave+S,+Nashville,+TN+37212&#x2F;@36.1347819,-86.8029863,17z&#x2F;data=!3m1!4b1!4m5!3m4!1s0x8864669fea1ce71d:0xdc34986293b94f39!8m2!3d36.1347819!4d-86.8007923&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;about&#x2F;bitcoinpark-parking&quot;&gt;Parking Info&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;Join us for the NashBitDevs &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our 
+sponsors &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinpark.co&#x2F;&quot;&gt;Bitcoin Park&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;
+for food, refreshments and event space.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;news-and-events&quot;&gt;News and Events&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;TabConf wrap-up&lt;&#x2F;li&gt;
+&lt;li&gt;Thr. Nov 3, Open House - &lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;bitcoinpark&#x2F;events&#x2F;287981464&#x2F;&quot;&gt;Bitcoin and Public Policy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Mon. Oct 31, Bitcoin Magazine &lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;nashbitcoiners&#x2F;events&#x2F;289259871&#x2F;&quot;&gt;Art Gallery: Grand Opening&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Wed. Nov 9, Bitcoin Meetup Nashville &lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;nashbitcoiners&#x2F;events&#x2F;288725249&#x2F;&quot;&gt;#15 - Talking Bitcoin Over the Holidays&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work &#x2F; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightning.engineering&#x2F;posts&#x2F;2022-9-28-taro-launch&#x2F;&quot;&gt;&amp;quot;Hello Taro: Building the (Tap)Root of the World&#x27;s Financial Network with Bitcoin&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Block &lt;a href=&quot;https:&#x2F;&#x2F;wallet.build&#x2F;how-we-design-our-hardware&#x2F;&quot;&gt;&amp;quot;How we design our hardware&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-projects&quot;&gt;Bitcoin Projects&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;BIP324: Enable v2 P2P encrypted transport &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;24545&quot;&gt;#24545&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Add BIP324: v2 P2P Transport Protocol &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1378&quot;&gt;#1378&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Core:  Enable mempoolfullrbf=1 by default &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;26305&quot;&gt;#26305&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;bitcoin-dev-kit&quot;&gt;Bitcoin Dev Kit&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Add HWI example in docs &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoindevkit&#x2F;bdk&#x2F;pull&#x2F;758&quot;&gt;#758&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning-projects&quot;&gt;Lightning Projects&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;lightning-dev-kit&quot;&gt;Lightning Dev Kit&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightningdevkit.org&#x2F;blog&#x2F;onion-messages-demystified&#x2F;&quot;&gt;Onion Messages Demystified&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;lnd&quot;&gt;LND&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;brqgoo&#x2F;status&#x2F;1579216353780957185&quot;&gt;998-of-999 tapscript multisig transaction&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;issues&#x2F;7002#issuecomment-1272654613&quot;&gt;Roasbeef GitHub comment&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;roasbeef&#x2F;status&#x2F;1579276764529860610&quot;&gt;Roasbeef Twitter comment&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Consensus conflict caused by maxWitnessItemsPerInput &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;btcsuite&#x2F;btcd&#x2F;issues&#x2F;1906&quot;&gt;#1906&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;brqgoo&#x2F;status&#x2F;1587397646125260802&quot;&gt;&amp;quot;Sometimes to find the light, we must first touch the darkness.&amp;quot;&lt;&#x2F;a&gt; &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;byronhambly&#x2F;status&#x2F;1587505017866567687&quot;&gt;&amp;quot;older versions of electrs are also broken (however, the latest 0.9.9 is fine)...&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Liquid_BTC&#x2F;status&#x2F;1587499305664913413&quot;&gt;&amp;quot;The Liquid Federation Watchmen are currently affected by a bug in the rust-bitcoin library...&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+        </item>
+        <item>
+            <title>NashBitDevs Socratic Seminar #0</title>
+            <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+            <link>https://nashbitdevs.org/socratic-seminar-0/</link>
+            <guid>https://nashbitdevs.org/socratic-seminar-0/</guid>
+            <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;6:30pm Meet and Greet and Pizza&lt;br &#x2F;&gt;
+7:00pm Socratic Seminar where we review various Bitcoin topics&lt;br &#x2F;&gt;
+8:00pm Further hanging at The Moxy Hotel bar&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;Bitcoin Park&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;VIP conference room&lt;br &#x2F;&gt;
+1910 21st Ave S&lt;br &#x2F;&gt;
+Nashville, TN  37212&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;1910+21st+Ave+S,+Nashville,+TN+37212&#x2F;@36.1347819,-86.8029863,17z&#x2F;data=!3m1!4b1!4m5!3m4!1s0x8864669fea1ce71d:0xdc34986293b94f39!8m2!3d36.1347819!4d-86.8007923&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;about&#x2F;bitcoinpark-parking&quot;&gt;Parking Info&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;We are excited to introduce our very first &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our 
+sponsors &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinpark.co&#x2F;&quot;&gt;Bitcoin Park&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;
+for food, refreshments and event space.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;socratic-seminar&quot;&gt;Socratic Seminar&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;news-and-events&quot;&gt;News and Events&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;bitcoinpark&#x2F;events&#x2F;287981428&#x2F;&quot;&gt;BP Open House #1&lt;&#x2F;a&gt; Oct. 5&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;bitcoin-chattanooga&#x2F;events&#x2F;tpqzwsydcnblb&#x2F;&quot;&gt;Bitcoin Chattanooga&lt;&#x2F;a&gt; Oct. 8&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;nashbitcoiners&#x2F;events&#x2F;288422378&#x2F;&quot;&gt;Nashbitcoiners #14&lt;&#x2F;a&gt; Oct. 12&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;tabconf.com&#x2F;&quot;&gt;TABconf&lt;&#x2F;a&gt; Oct. 12-15&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;event.bitcoin.design&quot;&gt;Bitcoin Designathon 2022&lt;&#x2F;a&gt; Oct. 12-23&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;makers.bolt.fun&#x2F;tournaments&#x2F;1&#x2F;overview&quot;&gt;Legends of Lightning&lt;&#x2F;a&gt; Oct. 11 - Dec. 7&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;murchandamus&#x2F;status&#x2F;1574075618408337411&quot;&gt;Murch &amp;quot;Bitcoin Supply Inflation&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work &#x2F; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;n1ckler&#x2F;status&#x2F;1567168267025874944&quot;&gt;nckler &amp;quot;Approaching stable MuSig2 Spec&amp;quot;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jonasnick&#x2F;bips&#x2F;blob&#x2F;musig2&#x2F;bip-musig2.mediawiki#Introduction&quot;&gt;BIP MuSig2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jamming-dev.github.io&#x2F;book&#x2F;&quot;&gt;LN &amp;quot;Channel Jamming Book&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;EricSirion&#x2F;status&#x2F;1572329210727010307&quot;&gt;elsirion &amp;quot;FediMint public signet instance&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;callebtc&#x2F;status&#x2F;1569986110272540674&quot;&gt;calle &amp;quot;Cashu a Chaumian Ecash wallet and mint&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;the-power-of-htlc_maximum_msat-as-a-control-valve-for-better-flow-control-improved-reliability-and-lower-expected-payment-failure-rates-on-the-lightning-network&#x2F;&quot;&gt;renepickhardt &amp;quot;The Power of Valves for Better Flow Control, ...&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-projects&quot;&gt;Bitcoin Projects&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;bitcoin-devwiki&#x2F;wiki&#x2F;24.0-Release-Notes-draft&quot;&gt;Bitcoin Core 24.0 Release Candidate&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.reviews&#x2F;v24-rc-testing&quot;&gt;&amp;quot;Testing Bitcoin Core 24.0 Release Candidates&amp;quot;&lt;&#x2F;a&gt; Sept. 28&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;25991&quot;&gt;&amp;quot;Wallet: Add foreign_outputs metadata to support CoinJoin transactions&amp;quot; #25991&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;topics&#x2F;coinjoin&#x2F;&quot;&gt;Bitcoin Optech &amp;quot;Coinjoin&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;bitcoin-dev-kit&quot;&gt;Bitcoin Dev Kit&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoindevkit&#x2F;bdk&#x2F;pull&#x2F;558&quot;&gt;Add waste metric for coin selection #558&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;topics&#x2F;coin-selection&#x2F;&quot;&gt;Bitcoin Optech &amp;quot;Coin selection&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;113622&#x2F;what-does-waste-metric-mean-in-the-context-of-coin-selection&quot;&gt;Murch &amp;quot;What does &amp;quot;Waste Metric&amp;quot; mean in the context of Coin Selection?&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;lightning-projects&quot;&gt;Lightning Projects&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;eclair&quot;&gt;Eclair&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;pull&#x2F;2435&quot;&gt;Add initial support for async payment trampoline relay #2435&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;989&quot;&gt; &amp;quot;Add the ability to hold HTLCs before forwarding (FEAT 52&#x2F;53)&amp;quot; #989&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2021-October&#x2F;003307.html&quot;&gt;&amp;quot;[lightning-dev] A Mobile Lightning User Goes to Pay a Mobile Lightning User...&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;lightning-dev-kit&quot;&gt;Lightning Dev Kit&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;1719&quot;&gt;BOLT 12 offer encoding and building #1719&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;topics&#x2F;offers&#x2F;&quot;&gt;Bitcoin Optech &amp;quot;Offers&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;1706&quot;&gt;Support filtered blocks in lightning-block-sync #1706&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;topics&#x2F;compact-block-filters&#x2F;&quot;&gt;Bitcoin Optech &amp;quot;Compact block filters&amp;quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightningdevkit.org&#x2F;blog&#x2F;announcing-rapid-gossip-sync&#x2F;&quot;&gt;Announcing Rapid Gossip Sync&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rapid-gossip-sync-server&quot;&gt;rapid-gossip-sync-server&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+        </item>
+    </channel>
+</rss>
