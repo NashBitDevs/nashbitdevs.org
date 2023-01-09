@@ -44,11 +44,17 @@ for food, refreshments and event space.
 
 ### Socratic Seminar
 
-#### News and Events
+#### Events
 
-  - [Bitcoin Park Events](https://www.meetup.com/bitcoinpark/events/)
-  - [NashBitcoiners Events](https://www.meetup.com/nashbitcoiners/events/)
-  - [Bitcoin Dev Kit Workshop](https://www.meetup.com/bitcoinpark/events/290296920/), Feb 11
+  - [Open House - Mining to the Moon](https://www.meetup.com/bitcoinpark/events/288587964/), Wed. Jan 11 16:30
+  - [Workshop - Bitcoin Dev Kit (BDK) with the BDK Team](https://www.meetup.com/bitcoinpark/events/290296920/), Sat. Feb 11 10:00
+  - [Workshop - Inscriptions: Turning Sats into Digital Artifacts](https://www.meetup.com/bitcoinpark/events/290771105/), Sat. Feb 11 13:30
+
+#### News
+
+  - ["Layer 2 Labs Raises $3M At Launch To Supercharge Bitcoin's Ecosystem"](https://bitcoinmagazine.com/technical/bitcoin-company-layer-2-labs-raises-3m)
+  - [PlebDev Course I: Building a Lightning App](https://www.udemy.com/course/pleblabaustin/#instructor-1)
+  - [LukeDashJr PGP Key Compromised](https://twitter.com/LukeDashjr/status/1609613748364509184)
 
 #### Network Stats
 
@@ -57,32 +63,30 @@ for food, refreshments and event space.
   
 #### New Work / Research
 
-   - ["Layer 2 Labs Raises $3M At Launch To Supercharge Bitcoin's Ecosystem"](https://bitcoinmagazine.com/technical/bitcoin-company-layer-2-labs-raises-3m)
+   - ["Bitcoin Optech Newsletter #231: 2022 Year-in-Review Special"](https://bitcoinops.org/en/newsletters/2022/12/21/)
+   - [Lopp's "Bitcoin 2022 Annual Review"](https://blog.lopp.net/bitcoin-2022-annual-review/)
+   - [nostr tips and tricks](https://gist.github.com/dergigi/1ee8dc7e3da4b6572ed785ab24bc9907)
+   - [Ordinal Inscriptions](https://docs.ordinals.com/guides/inscriptions.html)
   
 #### Bitcoin Projects
 
 ##### Bitcoin Core
 
- - TBD
+ - [[bitcoin-dev] Full-RBF Peering Bitcoin Core v24.0.1 Released](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021270.html)  
 
 ##### Bitcoin Dev Kit
 
-  - TBD
+  - New release [0.26.0](https://github.com/bitcoindevkit/bdk/releases/tag/v0.26.0)  
+  - Tutorial by [Sandipan](https://twitter.com/sandipndev): [Hidden Powers of Miniscript Policy & Descriptors](https://bitcoindevkit.org/tutorials/hidden-power-of-bitcoin/)
 
 #### Lightning Projects
 
-##### Core Lightning
+##### Blue Wallet
 
-  - TBD
+  - [FIX: error when scanning some bip21 uris (closes #4931) #5252 ](https://github.com/BlueWallet/BlueWallet/pull/5252)  
+    - Fix handling of [bip-0021](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki) based unified bitcoin QR codes
+    - Why [Unified QR codes for Bitcoin](https://bitcoinqr.dev)?
 
 ##### Eclair
 
-  - TBD
-     
-##### Lightning Dev Kit
-
-   - TBD
-
-##### LND
-
-  - TBD
+  - [Send payments to blinded routes #2482](https://github.com/ACINQ/eclair/pull/2482)
