@@ -52,25 +52,25 @@ for food, refreshments and event space.
 
 #### News
 
-  - TBD
+  - The [Breez SDK repo](https://github.com/breez/breez-sdk) is now public
+  - River shipped an update to their [open-source Elixir Bitcoin library](https://github.com/RiverFinancial/bitcoinex) which now [supports](https://github.com/RiverFinancial/bitcoinex/commit/ba5db6d978fdf30efb968e174e78c6a2ae3595a1) Schnorr signatures
+  - Spiral [Quarterly Update Q1 2023](https://spiral.xyz/blog/spiral-quarterly-update-q1-2023/)
   
 #### New Work / Research
 
-   - TBD
+  - ["Vaults and Covenants"](https://twitter.com/jamesob/status/1612482957406801922) by [James O'Beirne](https://twitter.com/jamesob)
+  - Braiins [article](https://braiins.com/blog/why-pools-mine-empty-blocks-and-how-stratum-v2-fixes-this) on Why Pools Mine Empty Blocks and How Stratum V2 Fixes This
+  - [[Lightning-dev] Swap-in-Potentiam: Moving Onchain Funds "Instantly" To Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003810.html)
+  - [[Lightning-dev] AJ sketches out a way to do proof of payment for async payments]( https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003833.html)
   
 #### Bitcoin Projects
 
-##### Bitcoin Core
+##### Ordinals
 
- - TBD
+  - [Inscriptions](https://rodarmor.com/blog/inscribing-mainnet/) are finally ready for Bitcoin mainnet with ord version 0.4.0 [release](https://github.com/casey/ord/releases/tag/0.4.0)
+    - [Eric Wall's fully onchain-inscribed (360kb) Bitcoin NFT](https://ordinals.com/inscription/cc7ca5c755220c5592c2a7557531b301033833f57997a1ad12d55e3487543f51i0) and [inscription transaction](https://mempool.space/tx/cc7ca5c755220c5592c2a7557531b301033833f57997a1ad12d55e3487543f51)
 
 ##### Bitcoin Dev Kit
 
-  - TBD
-
-#### Lightning Projects
-
-##### LDK
-
-  - TBD
+  - [WIP BDK 1.0 Staging](https://github.com/LLFourn/bdk_core_staging)
   
