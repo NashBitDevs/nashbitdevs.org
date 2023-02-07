@@ -65,12 +65,16 @@ for food, refreshments and event space.
   
 #### Bitcoin Projects
 
-##### Ordinals
-
-  - [Inscriptions](https://rodarmor.com/blog/inscribing-mainnet/) are finally ready for Bitcoin mainnet with ord version 0.4.0 [release](https://github.com/casey/ord/releases/tag/0.4.0)
-    - [Eric Wall's fully onchain-inscribed (360kb) Bitcoin NFT](https://ordinals.com/inscription/cc7ca5c755220c5592c2a7557531b301033833f57997a1ad12d55e3487543f51i0) and [inscription transaction](https://mempool.space/tx/cc7ca5c755220c5592c2a7557531b301033833f57997a1ad12d55e3487543f51)
-
 ##### Bitcoin Dev Kit
 
   - [WIP BDK 1.0 Staging](https://github.com/LLFourn/bdk_core_staging)
   
+##### Fedi
+
+  - [Add Stability Pool Module fedimint#1557](https://github.com/fedimint/fedimint/pull/1557)
+  - [":Fedipool: Fedimint Could Mitigate Bitcoin Mining Pool Concerns"](https://twitter.com/ODELL/status/1622657279056027650)
+
+##### Ordinals
+
+  - [Inscriptions](https://rodarmor.com/blog/inscribing-mainnet/) are finally ready for Bitcoin mainnet with ord version 0.4.0 [release](https://github.com/casey/ord/releases/tag/0.4.0)
+  - [Eric Wall's fully onchain-inscribed (360kb) Bitcoin NFT](https://ordinals.com/inscription/cc7ca5c755220c5592c2a7557531b301033833f57997a1ad12d55e3487543f51i0) and [inscription transaction](https://mempool.space/tx/cc7ca5c755220c5592c2a7557531b301033833f57997a1ad12d55e3487543f51)
