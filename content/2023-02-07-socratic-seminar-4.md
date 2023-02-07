@@ -49,6 +49,7 @@ for food, refreshments and event space.
   - [Workshop - Bitcoin Dev Kit (BDK) with the BDK Team](https://www.meetup.com/bitcoinpark/events/290296920/), Sat. Feb 11 10:00
   - [Workshop - Inscriptions: Turning Sats into Digital Artifacts](https://www.meetup.com/bitcoinpark/events/290771105/), Sat. Feb 11 13:30
   - [The Power of Lightning Summit 2023](https://www.meetup.com/bitcoinpark/events/291052525/), July 13-14, 2023
+  - [Social - Hodl Up Game Day](https://www.meetup.com/bitcoinpark/events/291296694/), Wed. Feb 8, 13:00
 
 #### News
 
@@ -74,7 +75,7 @@ for food, refreshments and event space.
 
   - [WIP BDK 1.0 Staging](https://github.com/LLFourn/bdk_core_staging)
   
-##### Fedi
+##### Fedimint
 
   - [Add Stability Pool Module fedimint#1557](https://github.com/fedimint/fedimint/pull/1557)
   - [":Fedipool: Fedimint Could Mitigate Bitcoin Mining Pool Concerns"](https://twitter.com/ODELL/status/1622657279056027650)
