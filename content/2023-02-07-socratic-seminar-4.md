@@ -59,10 +59,15 @@ for food, refreshments and event space.
 #### New Work / Research
 
   - ["Vaults and Covenants"](https://twitter.com/jamesob/status/1612482957406801922) by [James O'Beirne](https://twitter.com/jamesob)
-  - Braiins [article](https://braiins.com/blog/why-pools-mine-empty-blocks-and-how-stratum-v2-fixes-this) on Why Pools Mine Empty Blocks and How Stratum V2 Fixes This
   - [[Lightning-dev] Swap-in-Potentiam: Moving Onchain Funds "Instantly" To Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003810.html)
   - [[Lightning-dev] AJ sketches out a way to do proof of payment for async payments]( https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003833.html)
   
+#### Lightning Projects
+
+##### Lightning Dev Kit
+
+  - [Post-anchor: do not aggregate claim of revoked output rust-lightning#1841](https://github.com/lightningdevkit/rust-lightning/pull/1841)
+
 #### Bitcoin Projects
 
 ##### Bitcoin Dev Kit
