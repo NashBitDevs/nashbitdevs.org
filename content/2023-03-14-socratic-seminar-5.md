@@ -53,36 +53,42 @@ for food, refreshments and event space.
 
 #### News
 
-  - TBD
+- BlueWallet is [Sunsetting Lndhub.io](https://bluewallet.io/sunsetting-lndhub/)
+- Applications for [Summer of Bitcoin](https://www.summerofbitcoin.org) are now open
+- Voltage releases [Flow 2.0](https://voltage.cloud/blog/voltage-announcements/introducing-flow-v2/) LSP
   
 #### New Work / Research
 
-  - TBD
+  - [Coinstr](https://coinstr.app/), Bitcoin spending policy and signature orchestration using Taproot and Nostr
+  - [Alternative design to OP-Vault](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021510.html)
   
 #### Lightning Projects
 
+- Tradeoffs between LNURL and BOLT12
+  - For example: driven by LNURL adoption on nostr
+  - [TheBlueMatt on Twitter](https://twitter.com/TheBlueMatt/status/1631896203070947328)
+
 ##### Core Lightning
 
-  - TBD
+- [clnurl](https://github.com/elsirion/clnurl), a new LNURL plugin
 
-##### Eclair
+##### Eclair/Phoenix
 
-  - TBD
+- [Error using BIP21 URI with BOLT 11 invoice phoenix#346 ](https://github.com/ACINQ/phoenix/issues/346)
 
 ##### Lightning Dev Kit
 
-  - TBD
-
-##### LND
-
-  - TBD
+- [LDK 0.0.114](https://twitter.com/lightningdevkit/status/1632808403457261568)
+- [Limit the number of pending un-funded inbound channel LDK#1988](https://github.com/lightningdevkit/rust-lightning/pull/1988)
+- [create_invoice_from_channelmanager variant with description hash support LDK#1280](https://github.com/lightningdevkit/rust-lightning/issues/1280)
 
 #### Bitcoin Projects
 
 ##### Bitcoin Core
 
-  - TBD
+- [bitcoin-inquisition](https://github.com/bitcoin-inquisition) and [Heretical Deployments](https://github.com/bitcoin-inquisition/bitcoin/wiki/Heretical-Deployments)
+- [p2p, validation: Don't download witnesses for assumed-valid blocks when running in prune mode bitcoincore#27050](https://github.com/bitcoin/bitcoin/pull/27050)
 
 ##### Bitcoin Dev Kit
 
-  - TBD
+- [Build](https://bdgwallet.notion.site/bdgwallet/Build-a-bitcoin-wallet-with-SwiftUI-a9b09fef617143948babf0641086c353) and [Design](https://bdgwallet.notion.site/bdgwallet/Build-a-bitcoin-wallet-with-SwiftUI-Part-2-UI-Styling-905e4db372ca48a4ad9d926449bcbc78) a bitcoin wallet on iOS using BDK
