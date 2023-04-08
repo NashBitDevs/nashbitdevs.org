@@ -38,7 +38,7 @@ for food, refreshments and event space.
 
 ### Raffle
 
-  - Guess the [next block nonce](https://mempool.space/mempool-block/0)
+  - Guess the [next block nonce](https://nonce.notmandatory.org/)
     - Must be 8 hex characters, `0-9` and `A-F`, eg. `9A74E2B1`
   - Winner(s) ranked by numeric closeness to next block nonce
 
@@ -46,40 +46,45 @@ for food, refreshments and event space.
 
 #### Events
 
-  - TBD
+  - Bitcoin [Product & Design Summit](https://www.meetup.com/bitcoinpark/events/291617163/) at Bitcoin Park 4.12.23
+  - Open House [Designing in Bitcoin](https://www.meetup.com/bitcoinpark/events/291617163/) at Bitcoin Park 4.12.23
   - [Bitcoin 2023](https://b.tc/conference), May 18-20, 2023, Miami Beach
-  - [The Power of Lightning Summit 2023](https://www.meetup.com/bitcoinpark/events/291052525/), July 13-14, 2023
 
 #### News
 
-  - TBD
-  
+  - [Bitkey Wallet](https://bitkey.build/you-can-call-us-bitkey/), formerly known as the Block wallet
+  - Unchained Capital [announcing](https://unchained.com/blog/multisig-security-ledger/) new open-source contributions and a significant upgrade re Ledger devices
+  - [Bitcoin Product Community](https://twitter.com/bitcoin_product/status/1637839411181395969)
+
 #### New Work / Research
 
-  - TBD
+  - [PayJoin BIP78](https://payjoin.org/)
   
 #### Lightning Projects
 
-  - TBD
+  - [Splice draft (feature 62/63) #863](https://github.com/lightning/bolts/pull/863)
+  - Lightning Service Provider [spec](https://github.com/BitcoinAndLightningLayerSpecs/lsp)
+  - Route Blinding merged into to Lightning [bolts](https://github.com/lightning/bolts/pull/765) spec
 
 ##### Core Lightning
 
-  - TBD
+  - [What are Blinded Paths and How do they Work?](https://github.com/ElementsProject/lightning/pull/6138)
 
-##### Eclair/Phoenix
+##### LND
 
-  - TBD
+  - LND announces [version 0.16 beta](https://lightning.engineering/posts/2023-03-29-lnd-0.16-launch/)
 
 ##### Lightning Dev Kit
 
-  - TBD
+  - LDK 2023 [Roadmap](https://lightningdevkit.org/blog/ldk-roadmap/)
 
 #### Bitcoin Projects
 
 ##### Bitcoin Core
 
-  - TBD
+  - Bitcoin CoreDev reflections 2022-2023 [survey](https://adamjonas.com/bitcoin/coredev/retro/coredev-2022-retro/)
+  - PR created and merged to [Log new headers](https://github.com/bitcoin/bitcoin/pull/27278) which is helpful for [Fork Monitor](https://forkmonitor.info/stale/btc/782129) among others
 
 ##### Bitcoin Dev Kit
 
-  - TBD
+  - [BDK 1.0.0-alpha.0](https://github.com/bitcoindevkit/bdk/releases/tag/v1.0.0-alpha.0)
