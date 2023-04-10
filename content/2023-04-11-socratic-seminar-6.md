@@ -7,6 +7,7 @@ meetup_id = "289641722"
 
 ### Agenda
 
+4:00pm Q&A with special guest  
 5:00pm Meet and greet and pizza  
 6:00pm Socratic seminar discussion of various bitcoin topics   
 7:30pm Further hanging at [The Villager Tavern](https://www.thevillagertavern-nashville.com/#/)
@@ -59,6 +60,8 @@ for food, refreshments and event space.
 #### New Work / Research
 
   - [PayJoin BIP78](https://payjoin.org/)
+    - [Bitcoin Design, Payjoin Experience](https://bitcoin.design/guide/case-studies/payjoin/)
+  - [BIP-370, PSBT Version 2](https://github.com/bitcoin/bips/blob/master/bip-0370.mediawiki)
   
 #### Lightning Projects
 
