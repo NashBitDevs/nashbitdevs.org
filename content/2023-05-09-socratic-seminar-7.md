@@ -73,4 +73,4 @@ for food, refreshments and event space.
   - [Mutiny Node v0.2.6: BDK Core + IndexedDB](https://www.nobsbitcoin.com/mutiny-node-v0-2-6/)
   - Bitcoin Stackexchange: ["...run a node with a bigger than default mempool?"](https://bitcoin.stackexchange.com/questions/118137/how-does-it-contribute-to-the-bitcoin-network-when-i-run-a-node-with-a-bigger-th)
   - "Package Relay Project Tracking" [Core #27463](https://github.com/bitcoin/bitcoin/issues/27463)
-  - ["What are BRC-20 tokens on Bitcoin?"](https://mythbtc.xyz/brc-20-token-standard-bitcoin/)
+  - ["DDOS attack via BRC-20 & ordinals on Bitcoin"](https://bitcoin.stackexchange.com/questions/118197/ddos-attack-via-brc-20-ordinals-on-bitcoin), Bitcoin Stack Exchange
