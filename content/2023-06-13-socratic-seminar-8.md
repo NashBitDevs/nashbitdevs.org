@@ -46,20 +46,33 @@ for food, refreshments and event space.
 
 #### Events
 
-  - TBD
+  - [Summit: Investing in Bitcoin Businesses with Ten31](https://www.meetup.com/bitcoinpark/events/293696864/), June 14, 11am - 5pm
+  - [Open House - Funding and Building on Bitcoin](https://www.meetup.com/bitcoinpark/events/289687804/), June 14, 5pm
+  - [The Power of Lightning Summit 2023](https://www.meetup.com/bitcoinpark/events/291052525/), July 13-14
 
 #### News
 
-  - TBD
+- BitKey blog posts [1](https://bitkey.build/staying-safe-with-self-custody/) + [2](https://bitkey.build/seed-phrases-are-sharp-edges/) + [3](https://bitkey.build/screens-are-not-a-panacea/)
+- Mempool [Accelerator](https://nitter.at/mempool/status/1659619347910803466?ref=nobsbitcoin.com)
+- Ledger [Recover](https://www.ledger.com/recover)
+- [Lightspark Wallet SDK](https://davidmarcus.substack.com/p/paving-the-way-for-lightnings-mainstream)
 
 #### New Work / Research
 
-  - TBD
+- [A New Class of ECDSA Signature Vulnerability Observed in the Wild on the Bitcoin Blockchain](https://www.nobsbitcoin.com/the-curious-case-of-the-half-half-bitcoin-ecdsa-nonces/)
+- [Burak's Ark protocol](https://www.arkpill.me/)
+  - [RubenSomsen's Ark Gist](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
   
 #### Lightning Projects
 
-  - TBD
+- [lndk](https://github.com/lndk-org/lndk)
+- [Lightning Polar 2.0](https://github.com/jamaljsr/polar/releases/tag/v2.0.0)
+- [Tapsim](https://github.com/halseth/tapsim)
+- [lnprototest](https://github.com/rustyrussell/lnprototest)
+- [scaling-lightning](https://github.com/scaling-lightning/scaling-lightning?ref=nobsbitcoin.com)
 
 #### Bitcoin Projects
 
-  - TBD
+- [Bitcoin Core 0.25](https://bitcoincore.org/en/releases/25.0/) release
+- Bitcoin Core, ["Allow configuring target block time for a signet" #27446](https://github.com/bitcoin/bitcoin/pull/27446)
+  - [Related blog post](https://blog.mutinywallet.com/mutinynet/) 
