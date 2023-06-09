@@ -1,8 +1,8 @@
 +++
-title = "NashBitDevs Socratic Seminar #8"
+title = "NashBitDevs Socratic Seminar #9"
 template = "post.html"
 [extra]
-meetup_id = "289687793"
+meetup_id = "291768625"
 +++
 
 ### Agenda
