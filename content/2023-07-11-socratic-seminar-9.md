@@ -9,7 +9,7 @@ meetup_id = "291768625"
  
 5:00pm Meet and greet and pizza  
 6:00pm Socratic seminar discussion of various bitcoin topics   
-7:30pm Further hanging at [The Villager Tavern](https://www.thevillagertavern-nashville.com/#/)
+7:30pm [What Bitcoin Did Live w/ Preston Pysh & Matt Odell](https://www.meetup.com/bitcoinpark/events/294511327/)
 
 ### Location
 
@@ -46,20 +46,32 @@ for food, refreshments and event space.
 
 #### Events
 
-  - TBD
+  - Wed 5pm-8pm Bitcoin Park: [Open House - ⚡ LIGHTNING ⚡](https://www.meetup.com/bitcoinpark/events/291768693/)
+  - Thr-Fri 10am-4pm Bitcoin Park: [The Power of Lightning Summit 2023 - (Ticket Required)](https://www.meetup.com/bitcoinpark/events/291052525/)
+  - Sat-Sun 10am-4pm Bitcoin Park: [AI + Fedi-Mods Workshop](https://www.meetup.com/bitcoinpark/events/294524037/)
 
 #### News
 
-  - TBD
+- ["Custodian Prime Trust suspends withdrawals following sale failure"](https://www.axios.com/2023/06/22/custodian-prime-trust-suspends-withdrawals-following-sale-failure)
 
 #### New Work / Research
 
-  - TBD
+- [MAKE 12 WORDS THE STANDARD](https://foundationdevices.com/2023/06/make-12-words-the-standard/) by Foundation
+- [Passphrases Are Not the Solution for Bitcoin Custody](https://hugonguyen.medium.com/passphrases-are-not-the-solution-for-bitcoin-custody-4f967a339b1b) by Hugo Nguyen
+- [Block's Bitkey "Hardware Wallet" will Violate your Privacy and Security](https://www.zherbert.com/bitkey/) by Zach Herbert
+- [Codex32](https://secretcodex32.com/index.html)
+    - BDK [Issue #1027 "Support for codex32/BIP93 seed import"](https://github.com/bitcoindevkit/bdk/issues/1027)
   
 #### Lightning Projects
 
-  - TBD
+- [Announcing LDK Node](https://lightningdevkit.org/blog/announcing-ldk-node/)
+- [Voltage Surge](https://voltage.cloud/surge/)
+    - [Every Company Will Be A Lightning Company](https://medium.com/@graham_krizek/every-company-will-be-a-lightning-company-806576920064)
+- [Securing a $100M Lightning node](https://acinq.co/blog/securing-a-100M-lightning-node)
+- [VLS (the Validating Lightning Signer) Beta](https://vls.tech/posts/vls-beta/) release
 
 #### Bitcoin Projects
 
-  - TBD
+- [PUTTING THE B IN BTC](https://www.erisian.com.au/wordpress/2023/06/21/putting-the-b-in-btc) by Anthony Towns
+- [Coldcard Miniscript](https://github.com/Coldcard/firmware/pull/227)
+- [PDK](https://payjoindevkit.org/blog/pdk-an-sdk-for-payjoin-transactions/) Payjoin Dev Kit
