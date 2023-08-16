@@ -45,6 +45,9 @@ for food, refreshments and event space.
 ### Local Devs Show and Tell
 
   - Bitcoin Lightning car wash project
+    - Jeff Wizer and Robert Parro
+    - Shine Brite Car Wash is located at 211 N Main St Ashland City, TN 37015
+    - [Presentation slides](/presentations/2023-08-15-Bitcoin-Lightning-Car-Wash.pdf)
 
 ### Socratic Seminar
 
