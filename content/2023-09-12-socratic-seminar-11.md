@@ -54,6 +54,9 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - [BTCPay App](https://twitter.com/btcpayserver/status/1699114457421447543?s=12&t=tjvL-eINwWwpULIItNU3KA) announcement
 - Yikes! [Tx with 19.82 *BTC* Fee](https://mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd)
 - ["River To Reduce Its Lightning Node Capacity Further by 48%"](https://www.nobsbitcoin.com/river-to-reduce-its-lightning-node-capacity-by-48/)
+- [Milk Sad Disclosure](https://milksad.info/)
+- [Roman Sterlingov BitcoinFog / Chainalysis Case](https://www.torekeland.com/roman-sterlingov/)
+- [Tornado Cash founders indicted by DOJ](https://www.justice.gov/usao-sdny/pr/tornado-cash-founders-charged-money-laundering-and-sanctions-violations)
 
 #### New Work / Research
 
