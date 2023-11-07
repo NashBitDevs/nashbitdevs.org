@@ -52,16 +52,34 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### News
 
-  - TBD
+- OpenSats
+  - [Long-Term Support For Vasil Dimov](https://opensats.org/blog/vasil-dimov-receives-lts-grant)
+  - [Long-Term Support For Gleb Naumenko](https://opensats.org/blog/gleb-naumenko-receives-lts-grant)
+  - [Third Wave of Nostr Grants](https://opensats.org/blog/nostr-grants-october-2023)
+  - [Long-Term Support For Matt Morehouse](https://opensats.org/blog/matt-morehouse-lightning-security-lts-grant)
+  - [Niel Liesmons Joins OpenSats Design](https://opensats.org/blog/niel-liesmons-joins-the-opensats-design-initiative)
+  - [Long-Term Support For Furszy](https://opensats.org/blog/furszy-receives-lts-grant-for-bitcoin-core)
+- [Microsoft App Store Users Lose $588,000 to Fake Ledger Live App](https://coincu.com/226680-fake-ledger-live-app-steals-588000-from-users/)
+- [FinCEN Seeks to Impose Strict Surveillance Requirements onto Broadly Defined Class of 'Bitcoin Mixers'](https://www.nobsbitcoin.com/fincen-wants-to-outlaw-certain-bitcoin-on-chain-transactions/)
+- [Geyser Migrates to Nostr](https://www.nobsbitcoin.com/geyser-migrating-to-nostr/)
 
 #### New Work / Research
 
-  - TBD
+- [BitMEX Research "Fork Monitor"](https://forkmonitor.info/nodes/btc)
+- [No BS Bitcoin "How Does a Lightning Replacement Cycling Attack Work - Illustrated Primer"](https://www.nobsbitcoin.com/how-does-a-lightning-replacement-cycling-attack-work/)
 
 #### Lightning Projects
 
-  - TBD
+- [The Lightning Network Grew by 1212% in 2 Years](https://blog.river.com/the-lightning-network-in-2023/)
+- [Blockstream Greenlight Is Now Open for Business](https://blog.blockstream.com/greenlight-is-now-open-for-business/)
+- [ZEUS v0.8.0 open beta is here](https://blog.zeusln.com/zeus-v0-8-0-open-beta/)
+- [Lightspark now supports Universal Money Addresses](https://www.lightspark.com/uma)
+- [LDK v0.0.118 adds support for BOLT12 sending and receiving](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.118)
 
 #### Bitcoin Projects
 
-  - TBD
+- [Meet the MDK Hashboard](https://www.mining.build/meet-the-mdk-hashboard/)
+- ["Add offline signing tutorial" merged](https://github.com/bitcoin/bitcoin/pull/28363)
+- [core "assumeutxo (2) #27596" merged](https://github.com/bitcoin/bitcoin/pull/27596)
+- [26.0 Release Notes Draft](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/26.0-Release-Notes-Draft)
+    - [BIP 324: Version 2 P2P Encrypted Transport Protocol](https://github.com/bitcoin/bips/blob/master/bip-0324.mediawiki)
