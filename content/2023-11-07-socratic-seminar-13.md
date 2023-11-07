@@ -50,6 +50,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
   - Oct 5 to Dec 17: [Legends of Lightning Vol 2](https://bolt.fun/tournaments/legends-of-lightning-vol2/overview)
   - Thr Nov 9 to Fri Nov 10 [Nostrville 2023](https://www.meetup.com/bitcoinpark/events/292518506/)
 
+#### Dev Show and Tell
+
+- [Thunderbiscuit](https://thunderbiscuit.com/) tells us about his Kotlin based [`cashu-client`](https://github.com/thunderbiscuit/cashu-client) project
+
 #### News
 
 - OpenSats
