@@ -47,23 +47,40 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 #### Events
 
   - Wed 5pm-8pm Bitcoin Park: [Open House - Bitcoin and Public Policy](https://www.meetup.com/bitcoinpark/events/291768721/)
-
-#### Dev Show and Tell
-
-- TBD
+  - Thr Jan 25, 6PM [Music City Rust Devs](https://www.meetup.com/music-city-rust-developers/), now at Bitcoin Park!
+  - July 29th - August 2nd Rust and Bitcoin week at Bitcoin Park, details TBD
 
 #### News
 
-- TBD
+- [WSJ "Binance Founder Changpeng Zhao Agrees to Step Down, Plead Guilty"](https://www.wsj.com/finance/currencies/binance-ceo-changpeng-zhao-step-down-plead-guilty-01f72a40)
+- ["Atomicals" project learns why not to use SIGHASH_NONE](https://twitter.com/mononautical/status/1726938710535737632)
+- ["Six OFAC-sanctioned transactions missing" 0xB10C](https://b10c.me/observations/08-missing-sanctioned-transactions/)
+- [Spiral Grant for PM Will Clark](https://twitter.com/spiralbtc/status/1722668822115619151?s=12&t=tjvL-eINwWwpULIItNU3KA)
+- [Spiral Grant for ZeroSync](https://twitter.com/spiralbtc/status/1722668822115619151?s=12&t=tjvL-eINwWwpULIItNU3KA)
+- [Open Sats Grant for Dev Will Clark](https://opensats.org/blog/will-clark-receives-lts-grant-for-bitcoin-core)
+- [Wallet of Satoshi removes app from US app stores](https://twitter.com/walletofsatoshi/status/1727937085741678679?s=12&t=tjvL-eINwWwpULIItNU3KA)
+- ["U.S. Treasury Seeks Massive Expansion of Warrantless Surveillance & Powers to Sanction Open-Source Software" nobsbitcoin](https://www.nobsbitcoin.com/u-s-treasury-recommends-massive-expansion-of-warrantless-surveillance-power-to-sanction-open-source-software/)
 
 #### New Work / Research
 
-- TBD
-
-#### Lightning Projects
-
-- TBD
+- ["Cluster mempool theory" sipa](https://delvingbitcoin.org/t/cluster-mempool-definitions-theory/202)
+- ["Decentralized Mining Pools for Bitcoin" Bob McElrath](https://github.com/mcelrath/braidcoin/blob/master/general_considerations.md)
+- ["Better Bitcoin Terms..."](https://bitcoinstack.info/)
 
 #### Bitcoin Projects
 
-- TBD
+- [Bitcoin Core 26.0 released](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2023-December/000131.html)
+- [Ocean Mining](ocean.xyz)
+  - [LukeDashjr on filtering coinjoins](https://twitter.com/LukeDashjr/status/1733226675171962886)
+- ["DEMAND Launches The First Stratum V2 Bitcoin Mining Pool" - Bitcoin Magazine](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool?ref=nobsbitcoin.com)
+    [DEMAND Pool site](https://dmnd.work/)
+- Bitkey [shares their Recovery Design](https://bitkey.build/sharing-our-recovery-design/)
+- bitcoin core old version support
+    - [bitcoin core "Software Life Cycle"](https://bitcoincore.org/en/lifecycle/)
+    - ["Building Bitcoin Core v0.7 and Earlier" lopp](https://blog.lopp.net/building-bitcoin-core/)
+
+#### Lightning Projects
+
+- ["Route blinding: support forwarding as the intro node" rust-lightning #2540](https://github.com/lightningdevkit/rust-lightning/pull/2540) on [BOLT12 Offers Tracking Issue](https://github.com/lightningdevkit/rust-lightning/issues/1970)
+- ["[Lightning-dev] Liquidity Ads: Updated Spec Posted, please review"](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004217.html)
+- ["Improve swap-in protocol with taproot and musig2" lightning-kmp #563 ](https://github.com/ACINQ/lightning-kmp/pull/563)
