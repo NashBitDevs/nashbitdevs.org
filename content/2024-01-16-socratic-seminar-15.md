@@ -52,16 +52,32 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### News
 
-- TBD
+- [The Bitcoin Dev Project](https://bitcoindevs.xyz)
+- Open Sats
+    - [Third Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-december-2023)
+    - [Fourth Wave of Nostr Grants](https://opensats.org/blog/nostr-grants-december-2023?ref=nobsbitcoin.com)
+    - [Long-Term Support For Tobin Harding](https://opensats.org/blog/tobin-harding-receives-lts-grant-for-rust-bitcoin)
+    - [OpenSats' 2023 Year in Review](https://opensats.org/blog/2023-year-in-review)
+- [Human Rights Foundation announced its most recent round of Bitcoin Development Fund grants](https://bitcoinmagazine.com/business/human-rights-foundation-grants-500000-to-18-bitcoin-projects-worldwide)
+- [Vinteum extends brrrunog and Erik17192799 funding for another year](https://twitter.com/vinteum_org/status/1737880749276098683?s=12&t=tjvL-eINwWwpULIItNU3KA)
+- [Spiral Grants Support to Fedimint Developer Joschisan](https://nitter.net/spiralbtc/status/1745117076853866551)
+- [CoinDesk: "The Biggest Bitcoin ETF Threat No One Is Talking About"](https://www.coindesk.com/consensus-magazine/2024/01/11/the-biggest-bitcoin-etf-threat-no-one-is-talking-about/)
 
 #### New Work / Research
 
-- TBD
+- [Bitcoin Covenants Wiki](https://covenants.info/overview/summary/)
 
 #### Bitcoin Projects
 
-- TBD
+- [Mempool Goggles](https://nitter.net/mempool/status/1736700022350090400) from mempool.space
+- [Miniscript Templates](https://github.com/Blockstream/miniscript-templates)
+- [OP_CHECKTEMPLATEVERIFY, OP_CHECKSIGFROMSTACK(VERIFY), OP_INTERNALKEY validation (LNHANCE) bitcoincore #29198 ](https://github.com/bitcoin/bitcoin/pull/29198)
+    - [delvingbitcoin: LNHANCE bips and implementation](https://delvingbitcoin.org/t/lnhance-bips-and-implementation/376)
 
 #### Lightning Projects
 
-- TBD
+- [Amboss introduces Ghost Address](https://twitter.com/ambosstech/status/1737880662617583826)
+- Phoenix Wallet [2.1.0 Liquidity Ads](https://github.com/ACINQ/phoenix/releases/tag/android-v2.1.0)
+- LDK Node [0.2.0 release](https://github.com/lightningdevkit/ldk-node/releases/tag/v0.2.0)
+- [The challenges of developing non-custodial lightning on mobile](https://lightningdevkit.org/blog/the-challenges-of-developing-non-custodial-lightning-on-mobile/) by Matt Corallo
+- [Rethinking Lightning](https://stacker.news/items/379225) by Ben Carman
