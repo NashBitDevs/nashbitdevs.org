@@ -51,34 +51,31 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### News
 
-- [First Ever Bitcoin/Lightning Car Wash](https://twitter.com/drfomo_nash/status/1750213525111292058?s=12&t=tjvL-eINwWwpULIItNU3KA)
-- [Applications for Summer of Bitcoin 2024 are now open](https://www.summerofbitcoin.org/apply)
-- Grants
-    - Spiral
-        - [plebhash](https://twitter.com/spiralbtc/status/1755274169317491037?s=12&t=tjvL-eINwWwpULIItNU3KA)
-        - [Sebastian Kung](https://twitter.com/spiralbtc/status/1755990398583943518?s=12&t=tjvL-eINwWwpULIItNU3KA)
-        - [Christoph of Bitcoin Design](https://twitter.com/spiralbtc/status/1754916241423122582)
-    - Open Sats
-        - [0xB10C](https://opensats.org/blog/0xB10C-receives-lts-grant)
-
-- [Bitcoin Dev Mailing List moves to Google Groups](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-February/022327.html)
-- [Minneapolis Fed](https://twitter.com/m1sterc001guy/status/1752799178764284063)
+  - [First Ever Bitcoin/Lightning Car Wash](https://twitter.com/drfomo_nash/status/1750213525111292058)
+  - [Applications for Summer of Bitcoin 2024 are now open](https://www.summerofbitcoin.org/apply)
+  - Spiral Grants
+    - [plebhash](https://twitter.com/spiralbtc/status/1755274169317491037?s=12&t=tjvL-eINwWwpULIItNU3KA)
+    - [Sebastian Kung](https://twitter.com/spiralbtc/status/1755990398583943518?s=12&t=tjvL-eINwWwpULIItNU3KA)
+    - [Christoph of Bitcoin Design](https://twitter.com/spiralbtc/status/1754916241423122582)
+  - Open Sats Grants
+      - [0xB10C](https://opensats.org/blog/0xB10C-receives-lts-grant)
+    - [Bitcoin Dev Mailing List moves to Google Groups](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-February/022327.html)
+  - [Minneapolis Fed](https://twitter.com/m1sterc001guy/status/1752799178764284063)
 
 #### New Work / Research
 
-- ["wallet: Target a pre-defined utxo set composition by adjusting change outputs" bitcoin core #29442](https://github.com/bitcoin/bitcoin/pull/29442)
+  - ["wallet: Target a pre-defined utxo set composition by adjusting change outputs" bitcoin core #29442](https://github.com/bitcoin/bitcoin/pull/29442)
 
 #### Bitcoin Projects
 
-- [enable v2transport by default PR merged](https://github.com/bitcoin/bitcoin/pull/29347)
-- [v3 transaction policy for anti-pinning PR merged](https://github.com/bitcoin/bitcoin/pull/28948)
-- BIP: XXXX [human readable names into payment info](https://github.com/bitcoin/bips/pull/1551)
-- ["Overview of the cluster mempool proposal" Suhas Daftuar](https://delvingbitcoin.org/t/an-overview-of-the-cluster-mempool-proposal/393)
-- [pre-release utreexod v0.1.0](https://github.com/utreexo/utreexod/releases/tag/v0.1.0)
+  - [enable v2transport by default PR merged](https://github.com/bitcoin/bitcoin/pull/29347)
+  - [v3 transaction policy for anti-pinning PR merged](https://github.com/bitcoin/bitcoin/pull/28948)
+  - BIP: XXXX [human readable names into payment info](https://github.com/bitcoin/bips/pull/1551)
+  - ["Overview of the cluster mempool proposal" Suhas Daftuar](https://delvingbitcoin.org/t/an-overview-of-the-cluster-mempool-proposal/393)
+  - [pre-release utreexod v0.1.0](https://github.com/utreexo/utreexod/releases/tag/v0.1.0)
     - [Utreexo primer](https://docs.google.com/presentation/d/1NM0u6l4ajB4ij8rb7rwriNg-P3VvDXfYP0IaV6Lctj8/edit#slide=id.p1)
 
 #### Lightning Projects
 
-- [dual-funding](https://github.com/lightning/bolts/pull/851) merged into bolt spec
-- [Complete route blinding support LDK #2812](https://github.com/lightningdevkit/rust-lightning/pull/2812)
-
+  - [dual-funding](https://github.com/lightning/bolts/pull/851) merged into bolt spec
+  - [Complete route blinding support LDK #2812](https://github.com/lightningdevkit/rust-lightning/pull/2812)
