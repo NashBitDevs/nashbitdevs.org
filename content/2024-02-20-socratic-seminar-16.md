@@ -59,7 +59,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
     - [Christoph of Bitcoin Design](https://twitter.com/spiralbtc/status/1754916241423122582)
   - Open Sats Grants
       - [0xB10C](https://opensats.org/blog/0xB10C-receives-lts-grant)
-    - [Bitcoin Dev Mailing List moves to Google Groups](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-February/022327.html)
+  - [Bitcoin Dev Mailing List moves to Google Groups](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-February/022327.html)
+  - [Delving Bitcoin](https://delvingbitcoin.org/)
   - [Minneapolis Fed](https://twitter.com/m1sterc001guy/status/1752799178764284063)
 
 #### New Work / Research
