@@ -75,6 +75,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
   - ["Overview of the cluster mempool proposal" Suhas Daftuar](https://delvingbitcoin.org/t/an-overview-of-the-cluster-mempool-proposal/393)
   - [pre-release utreexod v0.1.0](https://github.com/utreexo/utreexod/releases/tag/v0.1.0)
     - [Utreexo primer](https://docs.google.com/presentation/d/1NM0u6l4ajB4ij8rb7rwriNg-P3VvDXfYP0IaV6Lctj8/edit#slide=id.p1)
+  - [Prune Node Rescan Project Tracking #29183](https://github.com/bitcoin/bitcoin/issues/29183)
 
 #### Lightning Projects
 
