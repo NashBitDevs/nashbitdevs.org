@@ -46,12 +46,38 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### Events
 
-  - Open House on Wed. March 20 at 5pm, ["Economics & Incentives of Bitcoin"](https://www.meetup.com/bitcoinpark/events/296363920/)
+- Open House on Wed. March 20 at 5pm, ["Economics & Incentives of Bitcoin"](https://www.meetup.com/bitcoinpark/events/296363920/)
+- [Bitcoin Halving!](https://halvening.net/) April
 
 #### News
 
+- [Fourth Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-feb-2024)
+- [Leonardo Lima grant from Vinteum](https://medium.com/vinteum-org/announcing-our-third-grant-leonardo-lima-fedimint-and-bdk-0aef25512d6f)
+- New version of [Learn Me A Bitcoin](https://learnmeabitcoin.com)
+- [Twenty Two Portal hardware wallet from Alekos Filini](https://twenty-two.xyz/)
+- ["Block Starts Shipping Its Bitkey Wallet"](https://www.nobsbitcoin.com/bitkey-is-now-shipping/)
+
 #### New Work / Research
+
+- [Tony Klausing](https://tonyklausing.com/) "Stable Channels"
+    - [github repo](https://github.com/toneloc/stable-channels)
+    - [twitter description](https://x.com/tonklaus/status/1729567459579945017)
+- [2023 Bitcoin Core Dev Feedback Survey](https://adamjonas.com/bitcoin/coredev/retro/coredev-2023-retro/)
+- [Basic vault prototype using OP_CAT](https://delvingbitcoin.org/t/basic-vault-prototype-using-op-cat/576)
 
 #### Bitcoin Projects
 
+- [Sharing the Code Behind Bitkey](https://bitkey.build/sharing-the-code-behind-bitkey/)
+- [Block's update on their mining software](https://www.mining.build/an-update-on-our-mining-software/)
+- [Revisiting BIP21](https://delvingbitcoin.org/t/revisiting-bip21/630)
+- ["wallet: Add CoinGrinder coin selection algorithm" core #27877](https://github.com/bitcoin/bitcoin/pull/27877)
+
 #### Lightning Projects
+
+- [Phoenix Swaproot](https://acinq.co/blog/phoenix-swaproot)
+- [LDK unleashing liquidity on the lightning network](https://lightningdevkit.org/blog/unleashing-liquidity-on-the-lightning-network-with-lightning-liquidity/)
+- [Amboss Reflex](https://rpo.dev)
+- [Braiins introduces Lightning Payouts](https://twitter.com/BraiinsMining/status/1760319741560856983)
+- [NiceHash Instant Lightning Network Payouts for Miners](https://www.nicehash.com/blog/post/game-changer-nicehashs-instant-lightning-network-payouts)
+- [Extension Bolt ZZZ: Dynamic Commitments](https://github.com/ProofOfKeags/bolts/blob/extension/dynamic-commitments/ext-dynamic-commitments.md)
+    - [[Lightning-dev] Dynamic Commitments: Upgrading Channels Without On-Chain Transactions](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-July/002763.html)
