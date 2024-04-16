@@ -46,7 +46,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### Events
 
-- Open House on Wed. April 17 at 5pm, ["Halving Celebration + Food Sovereignty & Bitcoin"](https://www.meetup.com/bitcoinpark/events/296363920/)
+- Open House on Wed. April 17 at 5pm, ["Halving Celebration + Food Sovereignty & Bitcoin"](https://www.meetup.com/bitcoinpark/events/294861031/)
 - [Bitcoin Halving!](https://halvening.net/) April
 
 #### News
@@ -62,7 +62,6 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 #### Bitcoin Projects
 
 - [Bitcoin Core 27.0 release candidate](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/27.0-Release-Candidate-Testing-Guide)
-  - [Testing Bitcoin Core 27.0 Release Candidates](https://bitcoincore.reviews/v27-rc-testing)
 - [SRI 1.0.0 released](https://stratumprotocol.org/blog/sri-1-0-0/)
 - [Casa Inheritance](https://blog.casa.io/introducing-casa-inheritance/)
 - [Zaprite Optimizing Address Usage for the Gap Limit](https://blog.zaprite.com/optimizing-address-usage-for-the-gap-limit/)
