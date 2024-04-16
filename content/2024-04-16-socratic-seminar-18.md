@@ -51,8 +51,24 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### News
 
+- [BIP editors discussion/nomination/timeline](https://gnusha.org/pi/bitcoindev/52a0d792-d99f-4360-ba34-0b12de183fef@murch.one/)
+
 #### New Work / Research
+
+- [A Deep Dive into LND's Pathfinding Mechanism](https://lightning.engineering/posts/2024-04-11-pathfinding-1/)
+- [Mempool Incentive Compatibility](https://delvingbitcoin.org/t/mempool-incentive-compatibility/553)
+- [Great Consensus Cleanup Revival](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710)
 
 #### Bitcoin Projects
 
+- [Bitcoin Core 27.0 release candidate](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/27.0-Release-Candidate-Testing-Guide)
+  - [Testing Bitcoin Core 27.0 Release Candidates](https://bitcoincore.reviews/v27-rc-testing)
+- [SRI 1.0.0 released](https://stratumprotocol.org/blog/sri-1-0-0/)
+- [Casa Inheritance](https://blog.casa.io/introducing-casa-inheritance/)
+- [Zaprite Optimizing Address Usage for the Gap Limit](https://blog.zaprite.com/optimizing-address-usage-for-the-gap-limit/)
+- ["wallet: Add createwalletdescriptor and gethdkeys RPCs for adding new automatically generated descriptors" #29130](https://github.com/bitcoin/bitcoin/pull/29130)
+
 #### Lightning Projects
+
+- [phoenixd: Phoenix for server](https://phoenix.acinq.co/server)
+- [Coinbase Selects Lightspark for Lightning](https://www.lightspark.com/news/coinbase-selects-lightspark?ref=nobsbitcoin.com)

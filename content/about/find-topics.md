@@ -10,7 +10,8 @@ NashBitDevs meetups. If you have any others to add to the list let us know.
 
 ### Mailing Lists, News Letters, Q&As
 
-  - [bitcoin-dev mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
+  - [delving bitcoin](https://delvingbitcoin.org/)
+  - [bitcoin-dev mailing list](https://groups.google.com/g/bitcoindev)
   - [lightning-dev mailing list](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
   - [Bitcoin Optech](https://bitcoinops.org/)
   - [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/)
