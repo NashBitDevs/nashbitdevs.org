@@ -81,5 +81,5 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
     - Bolt 12
         - [bolt12.org](https://bolt12.org/)
         - [clightning experimental `lighting-offer`](https://docs.corelightning.org/reference/lightning-offer)
-        - [Strike experimenting with Bolt 12]https://github.com/LN-Zap/bolt12-playground
+        - [Strike experimenting with Bolt 12](https://github.com/LN-Zap/bolt12-playground)
         - [LDK Blog: "BOLT12 Has Arrived"](https://lightningdevkit.org/blog/bolt12-has-arrived/)
