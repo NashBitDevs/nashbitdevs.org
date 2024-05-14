@@ -64,6 +64,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - ["@0xB10C tweet multiple pools "have exactly the same template and custom transaction prioritization as AntPool"](https://twitter.com/0xB10C/status/1780611768081121700)
     - [TFTC #501 "Bitcoin Mining Pools Are Critically Centralized | Matt Corallo"](https://www.tftc.io/bitcoin-mining-centralization-risks-matt-corallo/)
 - [Cashu-based reward system for a pleb-friendly Bitcoin Mining Pool](https://github.com/plebemineira/plebpool/discussions/7)
+- [Share Accounting + Accountability Protocol Extension](https://github.com/stratum-mining/sv2-spec/discussions/76)
 
 #### Bitcoin Projects
 
