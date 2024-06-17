@@ -50,8 +50,35 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### News
 
+- [Spiral grant to Bitcoin Design Foundation](https://opencollective.com/bitcoin-design-foundation/updates/spiral-donation-and-design-grants)
+- [Spiral grant to Sean Gilligan](https://x.com/spiralbtc/status/1792584819366416527)
+- [HRF grants](https://hrf.org/hrf-bitcoin-development-fund-grants-1-billion-satoshis-to-14-projects-worldwide/)
+- [Bitcoin Core vulnerability disclosure policy discussions report ](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
+- [Proof-of-work based signet faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937)
+- [[bitcoindev] BIP 21 Updates](https://mailing-list.bitcoindevs.xyz/bitcoindev/93c14d4f-10f3-48af-9756-7e39d61ba3d4@mattcorallo.com/#r)
+- [Japanese DMM Bitcoin Exchange Hacked](https://bitcoinmagazine.com/business/japanese-exchange-dmm-bitcoin-hacked-for-over-300-million-in-btc)
+
 #### New Work / Research
+
+- [BIP 337: Compressed Transactions](https://github.com/bitcoin/bips/blob/master/bip-0337.mediawiki)
+- [Silent Payments](https://silentpayments.xyz/)
+  - [Silent Payments: Light Client Protocol](https://delvingbitcoin.org/t/silent-payments-light-client-protocol/891)
+- [Introducing Ark Labs](https://blog.arklabs.to/introducing-ark-labs-a-new-venture-to-bring-seamless-and-scalable-payments-to-bitcoin-811388c0001b)
 
 #### Bitcoin Projects
 
+- [Add HKDF to bitcoin_hashes rust-bitcoin #2644](https://github.com/rust-bitcoin/rust-bitcoin/pull/2644)
+- [Proposed BIP text for Miniscript](https://groups.google.com/g/bitcoindev/c/wA-dW4t5BEY)
+- [Utreexod beta release](https://groups.google.com/g/bitcoindev/c/5GyV9af9lv4)
+- [Add bdk_sqlite crate implementing SQLite based wallet data storage bdk #1128](https://github.com/bitcoindevkit/bdk/pull/1128)
+- Descriptor based wallets
+  - Updated: [Casa](https://blog.casa.io/introducing-wallet-descriptors/)
+  - New: [Volt](https://github.com/Zero-1729/volt)
+  - Overview: [outputdescriptors.org](https://outputdescriptors.org)
+
 #### Lightning Projects
+
+- [Ignore --ignore-fee-rates on mutual close, don't massively overpay with LDK nodes core-lightning #7252](https://github.com/ElementsProject/lightning/pull/7252)
+- Lightning Invoice Decoder
+  - [Lipa](https://detective.lipa.dev)
+  - [Amboss](https://amboss.space/lightning-decoder)
