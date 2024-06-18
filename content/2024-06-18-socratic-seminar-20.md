@@ -53,7 +53,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - [Spiral grant to Bitcoin Design Foundation](https://opencollective.com/bitcoin-design-foundation/updates/spiral-donation-and-design-grants)
 - [Spiral grant to Sean Gilligan](https://x.com/spiralbtc/status/1792584819366416527)
 - [HRF grants](https://hrf.org/hrf-bitcoin-development-fund-grants-1-billion-satoshis-to-14-projects-worldwide/)
-- [Bitcoin Core vulnerability disclosure policy discussions report ](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
+- [Bitcoin Core vulnerability disclosure policy discussions report](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
 - [Proof-of-work based signet faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937)
 - [[bitcoindev] BIP 21 Updates](https://mailing-list.bitcoindevs.xyz/bitcoindev/93c14d4f-10f3-48af-9756-7e39d61ba3d4@mattcorallo.com/#r)
 - [Japanese DMM Bitcoin Exchange Hacked](https://bitcoinmagazine.com/business/japanese-exchange-dmm-bitcoin-hacked-for-over-300-million-in-btc)
@@ -82,3 +82,4 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - Lightning Invoice Decoder
   - [Lipa](https://detective.lipa.dev)
   - [Amboss](https://amboss.space/lightning-decoder)
+- [Channel Balance Interpolation in the Lightning Network via Machine Learning](https://x.com/AlyseKilleen/status/1793323599446876334)
