@@ -1,21 +1,24 @@
 # The URL the site will be built for
 base_url = "https://nashbitdevs.org"
 
+title = "NashBitDevs"
+description = "NashBitDevs is a community in the Nashville area for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software."
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
+generate_feeds = true
+feed_filenames = ["atom.xml", "rss.xml"]
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-generate_feed = true
-feed_filename = "rss.xml"
+# Configuration of the Markdown rendering
+[markdown]
 
-title = "NashBitDevs"
-description = "NashBitDevs is a community in the Nashville area for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software."
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
 
 [extra]
 # Put all your custom variables here
