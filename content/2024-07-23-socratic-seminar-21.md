@@ -9,9 +9,9 @@ meetup_id = "294860380"
 
 NOTE: starting 1 hour earlier this month.
 
-4:00pm Meet and greet and pizza  
+4:00pm Meet and greet  
 5:00pm Socratic seminar discussion of various bitcoin topics   
-6:30pm Further hangout TBD
+6:30pm Further hangout + food truck  
 
 ### Location
 
@@ -46,24 +46,35 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 ### Socratic Seminar
 
-Suggest topics by commenting on github issue [#33](https://github.com/NashBitDevs/nashbitdevs.org/issues/33).
-
 #### Events
 
-TBD
+* [Bitcoin24](https://b.tc/conference/2024/agenda) 
+  * "Freedom Tech: Bitcoin’s Policy Outlook in 2025 and Beyond", Friday July 26 at 9:10, Nakamoto stage
+  * "FREESAMOURAI" panel, Friday July 26 at 14:00, Open Source stage
+  * "Building on BDK" panel, Saturday July 27 at 10:30, Open Source stage
 
 #### News
 
-TBD
+- [Samouri Wallet arrests](https://blog.ronindojo.io/freesamourai/)
+  - [defense fund](https://p2prights.org)
+- [OpenSats Fifth Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-july-2024)
+- [Announcing the OpenSats Education Initiative](https://opensats.org/blog/announcing-the-opensats-education-initiative)
 
 #### New Work / Research
 
-TBD
+- [Spaces Protocol](https://spacesprotocol.org/paper/)
+- [BIP 353 Resolver](https://satsto.me)
+- [EL-TOR. TOR + BOLT12](https://devpost.com/software/el-tor)
 
 #### Bitcoin Projects
 
-TBD
+- New [Bitcoin Core Security Advisories](https://bitcoincore.org/en/security-advisories/) page
+- [Block+Core Scientific](https://www.mining.build/blog/first-mining-chip-customer/)
+- [Auditing Hashrate](https://github.com/stratum-mining/stratum/discussions/1052)
+- [@vostrnad](https://stacker.news/vostrnad) ["Definitive explanation of my weird Bitcoin transaction"](https://stacker.news/items/600187)
 
 #### Lightning Projects
 
-TBD
+- [New BOLT12 page](https://bolt12.org/)
+- [Phoenix Android/iOS/Server now supports BOLT12](https://x.com/PhoenixWallet/status/1808547081214439494)
+- [LDK Node 0.3.0 release](https://github.com/lightningdevkit/ldk-node/blob/main/CHANGELOG.md)
