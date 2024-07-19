@@ -80,3 +80,4 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - [Phoenix Android/iOS/Server now supports BOLT12](https://x.com/PhoenixWallet/status/1808547081214439494)
 - [LDK Node 0.3.0 release](https://github.com/lightningdevkit/ldk-node/blob/main/CHANGELOG.md)
   - [Add BIP21 Unified QR Code Support](https://github.com/lightningdevkit/ldk-node/pull/302)
+- [Fedimint DNS Tracking Issue for Guardian API Endpoint Rotation](https://github.com/fedimint/fedimint/issues/5525)
