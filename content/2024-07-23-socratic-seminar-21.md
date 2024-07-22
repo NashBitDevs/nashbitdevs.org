@@ -61,23 +61,30 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - [OpenSats Fifth Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-july-2024)
 - [Announcing the OpenSats Education Initiative](https://opensats.org/blog/announcing-the-opensats-education-initiative)
 
-#### New Work / Research
-
-- [Spaces Protocol](https://spacesprotocol.org/paper/)
-- [BIP 353 Resolver](https://satsto.me)
-- [EL-TOR. TOR + BOLT12](https://devpost.com/software/el-tor)
-
 #### Bitcoin Projects
 
 - New [Bitcoin Core Security Advisories](https://bitcoincore.org/en/security-advisories/) page
 - [Block+Core Scientific](https://www.mining.build/blog/first-mining-chip-customer/)
 - [Auditing Hashrate](https://github.com/stratum-mining/stratum/discussions/1052)
 - [@vostrnad](https://stacker.news/vostrnad) ["Definitive explanation of my weird Bitcoin transaction"](https://stacker.news/items/600187)
+- [BDK 1.0 beta](https://github.com/bitcoindevkit/bdk/releases/tag/v1.0.0-beta.1)
 
 #### Lightning Projects
 
-- [New BOLT12 page](https://bolt12.org/)
-- [Phoenix Android/iOS/Server now supports BOLT12](https://x.com/PhoenixWallet/status/1808547081214439494)
 - [LDK Node 0.3.0 release](https://github.com/lightningdevkit/ldk-node/blob/main/CHANGELOG.md)
   - [Add BIP21 Unified QR Code Support](https://github.com/lightningdevkit/ldk-node/pull/302)
+- [BOLT12](https://github.com/lightning/bolts/pull/798)
+    - [New BOLT12 page](https://bolt12.org/)
+    - [Phoenix Android/iOS/Server now supports BOLT12](https://x.com/PhoenixWallet/status/1808547081214439494)
+    - [Phoenix: Receive screen layout tweaks proposal](https://github.com/ACINQ/phoenix/issues/584)
+- [BIP353](https://github.com/bitcoin/bips/blob/master/bip-0353.mediawiki)
+    - [Phoenix now supports BIP-353 LN addresses](https://x.com/PhoenixWallet/status/1811442125801705638)
+    - [Setting up a bitcoin username](https://sethforprivacy.com/guides/setting-up-a-bitcoin-username/)
+    - [twelve.cash](https://twelve.cash)
 - [Fedimint DNS Tracking Issue for Guardian API Endpoint Rotation](https://github.com/fedimint/fedimint/issues/5525)
+
+#### New Work / Research
+
+- [BIP 353 Resolver](https://satsto.me)
+- [Spaces Protocol](https://spacesprotocol.org/paper/)
+- [EL-TOR. TOR + BOLT12](https://devpost.com/software/el-tor)
