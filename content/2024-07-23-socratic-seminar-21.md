@@ -60,6 +60,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
   - [Defense Fund](https://p2prights.org)
 - [OpenSats Fifth Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-july-2024)
 - [Announcing the OpenSats Education Initiative](https://opensats.org/blog/announcing-the-opensats-education-initiative)
+- [Satoshi Pacioli Accounting Announces Free Tax Services for Open Source Bitcoin Developers](https://satoshipacioli.com/satoshi-pacioli-accounting-announces-free-tax-services-for-open-source-bitcoin-developers/)
 
 #### Bitcoin Projects
 
