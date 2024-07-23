@@ -56,14 +56,15 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 #### News
 
 - [mempool.space accelerator](https://mempool.space/accelerator) available
-- [Samouri Wallet arrests](https://blog.ronindojo.io/freesamourai/)
-  - [defense fund](https://p2prights.org)
+- [Samourai Wallet arrests](https://blog.ronindojo.io/freesamourai/)
+  - [Defense Fund](https://p2prights.org)
 - [OpenSats Fifth Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-july-2024)
 - [Announcing the OpenSats Education Initiative](https://opensats.org/blog/announcing-the-opensats-education-initiative)
 
 #### Bitcoin Projects
 
 - New [Bitcoin Core Security Advisories](https://bitcoincore.org/en/security-advisories/) page
+  - [Reachable Nodes versions](https://bitnodes.io/dashboard/1y/)
 - [Block+Core Scientific](https://www.mining.build/blog/first-mining-chip-customer/)
 - [Auditing Hashrate](https://github.com/stratum-mining/stratum/discussions/1052)
 - [@vostrnad](https://stacker.news/vostrnad) ["Definitive explanation of my weird Bitcoin transaction"](https://stacker.news/items/600187)
