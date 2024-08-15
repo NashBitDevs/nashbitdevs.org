@@ -46,10 +46,31 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### Events
 
+#### Demo
+
+- How to setup [BIP-353 DNS Payment Instructions](https://github.com/bitcoin/bips/blob/master/bip-0353.mediawiki) with a [BOLT-12 Payment Offer](https://bolt12.org/)
+  - Test with [SatsTo.Me](https://satsto.me/)
+
 #### News
+
+- The University of Wyoming has established the UW Bitcoin Research Institute. http://uwyo.edu/bitcoin
+- [Mutiny Wallet is Shutting Down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
+- [OpenSats Bitcoin Core Grants](https://opensats.org/blog/caring-for-bitcoin-core)
+- [Introducing Proton Wallet](https://proton.me/blog/proton-wallet-launch)
+- [Bitaxe Block](https://mempool.space/block/00000000000000000000f0235e50becc0b3bc91231e236f67736d64b1813704b)
 
 #### New Work / Research
 
+- [Fedimint Observer](https://observer.fedimint.org/)
+- [Dark Skippy](https://darkskippy.com)
+
 #### Bitcoin Projects
 
+- [Testnet4 including PoW difficulty adjustment fix #29775](https://github.com/bitcoin/bitcoin/pull/29775)
+- [blockstorage: XOR blocksdir *.dat files #28052](https://github.com/bitcoin/bitcoin/pull/28052)
+- [policy: enable full-rbf by default](https://github.com/bitcoin/bitcoin/pull/30493)
+- [Merged: Testnet4 including PoW difficulty adjustment fix](https://github.com/bitcoin/bitcoin/pull/29775)
+
 #### Lightning Projects
+
+- [Phoenix Server Wallet Bounty](https://github.com/ZapriteApp/phoenix-server-wallet-bounty)
