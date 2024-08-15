@@ -44,8 +44,6 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 ### Socratic Seminar
 
-#### Events
-
 #### Demo
 
 - How to setup [BIP-353 DNS Payment Instructions](https://github.com/bitcoin/bips/blob/master/bip-0353.mediawiki) with a [BOLT-12 Payment Offer](https://bolt12.org/)
@@ -53,7 +51,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### News
 
-- The University of Wyoming has established the UW Bitcoin Research Institute. http://uwyo.edu/bitcoin
+- [The University of Wyoming has established the UW Bitcoin Research Institute](http://uwyo.edu/bitcoin)
 - [Mutiny Wallet is Shutting Down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
 - [OpenSats Bitcoin Core Grants](https://opensats.org/blog/caring-for-bitcoin-core)
 - [Introducing Proton Wallet](https://proton.me/blog/proton-wallet-launch)
