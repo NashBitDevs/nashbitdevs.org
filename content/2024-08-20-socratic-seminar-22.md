@@ -67,7 +67,6 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - [Testnet4 including PoW difficulty adjustment fix #29775](https://github.com/bitcoin/bitcoin/pull/29775)
 - [blockstorage: XOR blocksdir *.dat files #28052](https://github.com/bitcoin/bitcoin/pull/28052)
 - [policy: enable full-rbf by default](https://github.com/bitcoin/bitcoin/pull/30493)
-- [Merged: Testnet4 including PoW difficulty adjustment fix](https://github.com/bitcoin/bitcoin/pull/29775)
 
 #### Lightning Projects
 
