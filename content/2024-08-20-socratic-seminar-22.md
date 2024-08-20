@@ -47,19 +47,25 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 #### Demo
 
 - How to setup [BIP-353 DNS Payment Instructions](https://github.com/bitcoin/bips/blob/master/bip-0353.mediawiki) with a [BOLT-12 Payment Offer](https://bolt12.org/)
-  - Test with [SatsTo.Me](https://satsto.me/)
+    - Test with [SatsTo.Me](https://satsto.me/)
 
 #### News
 
 - [The University of Wyoming has established the UW Bitcoin Research Institute](http://uwyo.edu/bitcoin)
 - [Mutiny Wallet is Shutting Down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
+    - [Flow 2.0 Depreciation Incoming](https://x.com/mutinywallet/status/1825943276647755857?s=12&t=tjvL-eINwWwpULIItNU3KA)
 - [OpenSats Bitcoin Core Grants](https://opensats.org/blog/caring-for-bitcoin-core)
 - [Introducing Proton Wallet](https://proton.me/blog/proton-wallet-launch)
 - [Bitaxe Block](https://mempool.space/block/00000000000000000000f0235e50becc0b3bc91231e236f67736d64b1813704b)
+    - [worker](https://x.com/DCentralTech/status/1816172559924085070)
+    - [bitaxeGamma](https://x.com/skot9000/status/1825590575459869132?s=12&t=tjvL-eINwWwpULIItNU3KA)
 
 #### New Work / Research
 
 - [Fedimint Observer](https://observer.fedimint.org/)
+    - [repo](https://github.com/elsirion/fedimint-observer)
+    - [v0.4.0 - Rotation Station](https://github.com/fedimint/fedimint/releases/tag/v0.4.0)
+    - [Fedi app open source](https://github.com/fedixyz/fedi)
 - [Dark Skippy](https://darkskippy.com)
 
 #### Bitcoin Projects
@@ -67,6 +73,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - [Testnet4 including PoW difficulty adjustment fix #29775](https://github.com/bitcoin/bitcoin/pull/29775)
 - [blockstorage: XOR blocksdir *.dat files #28052](https://github.com/bitcoin/bitcoin/pull/28052)
 - [policy: enable full-rbf by default](https://github.com/bitcoin/bitcoin/pull/30493)
+    - [Bitcoin Talk](https://bitcointalk.org/index.php?topic=2181.msg28739#msg28739)
 
 #### Lightning Projects
 
