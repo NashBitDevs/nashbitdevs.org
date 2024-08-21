@@ -54,6 +54,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - [The University of Wyoming has established the UW Bitcoin Research Institute](http://uwyo.edu/bitcoin)
 - [Mutiny Wallet is Shutting Down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
     - [Flow 2.0 Depreciation Incoming](https://x.com/mutinywallet/status/1825943276647755857?s=12&t=tjvL-eINwWwpULIItNU3KA)
+    - [WalletRecovery](https://walletsrecovery.org/)
 - [OpenSats Bitcoin Core Grants](https://opensats.org/blog/caring-for-bitcoin-core)
 - [Introducing Proton Wallet](https://proton.me/blog/proton-wallet-launch)
 - [Bitaxe Block](https://mempool.space/block/00000000000000000000f0235e50becc0b3bc91231e236f67736d64b1813704b)
@@ -78,3 +79,4 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 #### Lightning Projects
 
 - [Phoenix Server Wallet Bounty](https://github.com/ZapriteApp/phoenix-server-wallet-bounty)
+- Insall Phoenix Wallet on US Android with [Obtainium](https://github.com/ImranR98/Obtainium?tab=readme-ov-file)
