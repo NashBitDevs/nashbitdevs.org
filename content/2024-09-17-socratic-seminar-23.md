@@ -61,8 +61,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - [Building BOLT 12 into Strike](https://strike.me/blog/bolt12-offers/)
   - [LNDK Feature: Receiving BOLT 12 payments](https://github.com/lndk-org/lndk/issues/170)
 - [10101 is shutting down](https://10101.finance/blog/10101-is-shutting-down/)
+- [Fixing Lightning Force Closures](https://mblack.io/posts/fixing-lightning-force-closures/)
 
 #### Bitcoin Projects
 
+- [descriptors: Be able to specify change and receiving in a single descriptor string](https://github.com/bitcoin/bitcoin/pull/22838)
 - [Introducing StashPay](https://blog.onionmill.com/p/introducing-stashpay-a-bitcoin-wallet)
 - [Soft-Fork/Covenant Dependent Layer 2 Review](https://petertodd.org/2024/covenant-dependent-layer-2-review)
