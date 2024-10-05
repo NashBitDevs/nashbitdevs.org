@@ -61,6 +61,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### Bitcoin Projects
 
+- [Bitcoin Core 28.0 has been released](https://bitcoincore.org/en/releases/28.0/)
 - [DLC Markets](https://dlcmarkets.com)
 - [Brink’s 2023-2024 Annual Report](https://brink.dev/blog/2024/09/25/2023-annual-report/)
 - [MDK Beta Update: Early Feedback & Expanded Participation](https://www.mining.build/blog/mdk-beta-update/)
