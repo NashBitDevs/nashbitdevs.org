@@ -62,6 +62,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 #### Bitcoin Projects
 
 - [Bitcoin Core 28.0 has been released](https://bitcoincore.org/en/releases/28.0/)
+-  [Add module "musig" that implements MuSig2 multi-signatures (BIP 327) #1479](https://github.com/bitcoin-core/secp256k1/pull/1479)
+    - [BIP 327](https://github.com/bitcoin/bips/blob/master/bip-0327.mediawiki)
 - [DLC Markets](https://dlcmarkets.com)
 - [Brink’s 2023-2024 Annual Report](https://brink.dev/blog/2024/09/25/2023-annual-report/)
 - [MDK Beta Update: Early Feedback & Expanded Participation](https://www.mining.build/blog/mdk-beta-update/)
@@ -73,6 +75,5 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### Research
 
-- [Privately sending payments while offline with BOLT12](https://delvingbitcoin.org/t/privately-sending-payments-while-offline-with-bolt12/1134) by @AndySchroder
 - [Shielded CSV: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV)
 - [Ark on bitcoin is here](https://blog.second.tech/ark-on-bitcoin-is-here/)
