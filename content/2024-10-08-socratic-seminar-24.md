@@ -55,6 +55,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 - Support for Jon Atack
   - [OpenSats Long-Term Support For Jon Atack](https://opensats.org/blog/jon-atack-receives-lts-grant)
   - [Maelstrom awarded Bitcoin developer Jon Atack a 1-year grant](https://bitcoinmagazine.com/business/arthur-hayess-family-office-funds-another-bitcoin-core-developer)
+    - [BIP85: update status to Final](https://github.com/bitcoin/bips/pull/1676)
 - [OpenSats Long-Term Support For Dusty Daemon](https://opensats.org/blog/dusty-daemon-receives-lts-grant)
 - [Ashigaru released: mobile wallet v1.0.0](https://ashigaru.rs/news/release-wallet-v1-0-0/)
   - [Added to comparison of software wallets](https://thebitcoinhole.com/software-wallets)
@@ -62,6 +63,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 #### Bitcoin Projects
 
 - [Bitcoin Core 28.0 has been released](https://bitcoincore.org/en/releases/28.0/)
+    - [RPC breakage with v28.0](https://github.com/bitcoin/bitcoin/issues/31039) and [LND](https://x.com/roasbeef/status/1842956355516223824?s=12&t=tjvL-eINwWwpULIItNU3KA)
 -  [Add module "musig" that implements MuSig2 multi-signatures (BIP 327) #1479](https://github.com/bitcoin-core/secp256k1/pull/1479)
     - [BIP 327](https://github.com/bitcoin/bips/blob/master/bip-0327.mediawiki)
 - [DLC Markets](https://dlcmarkets.com)
@@ -76,4 +78,6 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 #### Research
 
 - [Shielded CSV: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV)
+    - [Optech summary](https://bitcoinops.org/en/newsletters/2024/09/27/#shielded-client-side-validation-csv)
 - [Ark on bitcoin is here](https://blog.second.tech/ark-on-bitcoin-is-here/)
+    - [Demoing the first Ark transactions on bitcoin mainnet](https://blog.second.tech/demoing-the-first-ark-transactions-on-bitcoin-mainnet/)
