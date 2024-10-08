@@ -73,6 +73,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and [Bitrefill](
 
 #### Lightning Projects
 
+- [LDK + Bolt12 + Rust demo of Stable Channels](https://x.com/tonklaus/status/1843325326040129956)
 - [BOLT 12 Offers merged](https://github.com/lightning/bolts/pull/798)
 
 #### Research
