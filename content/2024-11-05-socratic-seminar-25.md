@@ -66,11 +66,11 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [Bitcoin Research Days, Nov 22 NYC](https://brd.chaincode.com/)
 
 ##### Other
-- [Pennsylvania passes bitcoin self sovereignty bill] (https://btctimes.com/pennsylvania-house-of-representatives-approves-bitcoin-bill/)
+- [Pennsylvania passes bitcoin self sovereignty bill](https://btctimes.com/pennsylvania-house-of-representatives-approves-bitcoin-bill/)
 
 #### Bitcoin Projects
 
-##### PR's
+##### PRs
 - [BIP 77: Payjoin Version 2 — Async Payjoin](https://github.com/bitcoin/bips/pull/1483)
 - [DRAFT BIP: "Sending Silent Payments with PSBTs"](https://github.com/bitcoin/bips/pull/1687/files)
 - [Open PR to add getdescriptoractivity](https://github.com/bitcoin/bitcoin/pull/30708)
