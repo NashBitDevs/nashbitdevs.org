@@ -53,7 +53,6 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 ##### Funding
 - [1A1z "Funding Bitcoin - Part 1"](https://s3.amazonaws.com/1a1z.com/files/1A1z%20-%20Funding%20Bitcoin%20-%20Part%201.pdf)
-- [OpenSats Eighth Wave of Bitcoin Grants](https://opensats.org/blog/8th-wave-of-bitcoin-grants)
 - [Spiral funding PDK contributor](https://x.com/spiralbtc/status/1848741207502885101?s=12&t=tjvL-eINwWwpULIItNU3KA)
 - [Spiral grant for programming Lightning workshop+book](https://x.com/spiralbtc/status/1851305676338868567)
 - [2140 in Amsterdam](https://2140.dev/) 
@@ -78,6 +77,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 ##### Wallets
 - [Bitcoin-Safe 1.0.0 beta](https://primal.net/e/note1r0le63sxhf6vtjnjc8zeh8rlpp9v33lmrwqlp2ds8v7xrq5ghydqsqecz2)
 - [Block/Bitkey "Unlocking Mass-Market Self-Custody"](https://assets.ctfassets.net/mtmp6hzjjvnd/6Qjcs8zgMiyffC0Uk8cx4V/6d1553946b50b132209518be8ff3026f/Unlocking_Mass_Market_Self_Custody_-10-24-.pdf)
+  - [Building in the open: a novel design for smartphone-based bitcoin wallets](https://bitkey.build/building-in-the-open/)
 - [Guide for Wallets Employing Bitcoin Core 28.0 Policies](https://bitcoinops.org/en/bitcoin-core-28-wallet-integration-guide/)
 
 ##### Other
@@ -86,4 +86,5 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
   - [The Ark Protocol: An Easy Introduction](https://thunderbiscuit.com/posts/ark/)
 
 #### Lightning Projects
+- [Max Flow performance metric for Lightning Network](https://bitcoinmagazine.com/technical/the-metric-that-matters-for-the-lightning-network)
 - [LN Summit 2024 Notes & Summary/Commentary](https://delvingbitcoin.org/t/ln-summit-2024-notes-summary-commentary/1198)
