@@ -48,6 +48,11 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### News
 
+- [AnchorWatch is a Lloyd's of London Coverholder](https://www.businesswire.com/news/home/20241118360660/en/AnchorWatch-Becomes-Lloyds-of-London-Coverholder-Set-to-Begin-Operations-in-December-2024)
+- [New Grantee Spiral - Bob McElrath](https://x.com/spiralbtc/status/1861804173932839174)
+- [New Grantee Spiral - Rachel Rybarczyk](https://x.com/spiralbtc/status/1864706606262255704)
+- [New LTS Grantee OpenSats - m1sterc001guy](https://opensats.org/blog/m1sterc001guy-receives-lts-grant)
+
 #### Bitcoin Projects
 - [Bitcoin Core Multiprocess](https://github.com/bitcoin/bitcoin/blob/master/doc/design/multiprocess.md)
   - [PoC core_bdk_wallet](https://github.com/darosior/core_bdk_wallet)
@@ -55,6 +60,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [Core Ephemeral Dust #30239](https://github.com/bitcoin/bitcoin/pull/30239) 
 - [Boost Your Bitcoin Node Sync With UTXO Snapshots](https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/)
 - [Round Robin Cashu Mint Auditor](https://audit.8333.space/)
+- [Introducing Proto: Building the future of bitcoin mining hardware](https://www.mining.build/blog/introducing-proto-building-the-future-of-bitcoin-mining-hardware-2/)
+- [THE CONSENSUS CONUNDRUM](https://x.com/jamesob/status/1857049961235403101)
+  - [bitcoin wiki - covenants support](https://en.bitcoin.it/wiki/Covenants_support)
+- [BITCOIN CORE'S LOSS OF FOCUS](https://x.com/jamesob/status/1860340932706730261)
 
 #### Lightning Projects
 - [Phoenix "(android) Rework the send screen" #643](https://github.com/ACINQ/phoenix/pull/643)
