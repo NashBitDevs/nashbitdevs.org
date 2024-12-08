@@ -46,6 +46,12 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Events
 
+- Jan 2025
+  - [NashBitDevs Socratic Seminar #27](https://www.meetup.com/bitcoinpark/events/302981156/)
+  - [TELEHASH - a one day event supporting the 256 Foundation](https://www.meetup.com/bitcoinpark/events/302955603/)
+  - [Open House #23](https://www.meetup.com/bitcoinpark/events/302981308/)
+  - [Nashville Energy & Mining Summit 2025](https://www.meetup.com/bitcoinpark/events/304092624/)
+
 #### News
 
 - [AnchorWatch is a Lloyd's of London Coverholder](https://www.businesswire.com/news/home/20241118360660/en/AnchorWatch-Becomes-Lloyds-of-London-Coverholder-Set-to-Begin-Operations-in-December-2024)
@@ -54,6 +60,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [New LTS Grantee OpenSats - m1sterc001guy](https://opensats.org/blog/m1sterc001guy-receives-lts-grant)
 
 #### Bitcoin Projects
+
 - [Bitcoin Core Multiprocess](https://github.com/bitcoin/bitcoin/blob/master/doc/design/multiprocess.md)
   - [PoC core_bdk_wallet](https://github.com/darosior/core_bdk_wallet)
 - [BDK code audit](https://gist.github.com/darosior/4aeb9512d7f1ac7666abc317d6f9453b)
@@ -66,9 +73,11 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [BITCOIN CORE'S LOSS OF FOCUS](https://x.com/jamesob/status/1860340932706730261)
 
 #### Lightning Projects
+
 - [Phoenix "(android) Rework the send screen" #643](https://github.com/ACINQ/phoenix/pull/643)
 - [CLN " askrene: improving the MCF solver" #7740](https://github.com/ElementsProject/lightning/pull/7740)
 
 #### Research
+
 - [bcap](https://github.com/bitcoin-cap/bcap)
 - [ColliderScript: Covenants in Bitcoin via 160-bit hash collisions](https://eprint.iacr.org/2024/1802)
