@@ -47,10 +47,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 #### Events
 
 - Jan 2025
-  - [NashBitDevs Socratic Seminar #27](https://www.meetup.com/bitcoinpark/events/302981156/)
-  - [TELEHASH - a one day event supporting the 256 Foundation](https://www.meetup.com/bitcoinpark/events/302955603/)
-  - [Open House #23](https://www.meetup.com/bitcoinpark/events/302981308/)
-  - [Nashville Energy & Mining Summit 2025](https://www.meetup.com/bitcoinpark/events/304092624/)
+  - [Jan 28: NashBitDevs Socratic Seminar #27](https://www.meetup.com/bitcoinpark/events/302981156/)
+  - [Jan 29: TELEHASH - a one day event supporting the 256 Foundation](https://www.meetup.com/bitcoinpark/events/302955603/)
+  - [Jan 29: Open House #23](https://www.meetup.com/bitcoinpark/events/302981308/)
+  - [Jan 30: Nashville Energy & Mining Summit 2025](https://www.meetup.com/bitcoinpark/events/304092624/)
 
 #### News
 
@@ -65,11 +65,13 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
   - [PoC core_bdk_wallet](https://github.com/darosior/core_bdk_wallet)
 - [BDK code audit](https://gist.github.com/darosior/4aeb9512d7f1ac7666abc317d6f9453b)
 - [Core Ephemeral Dust #30239](https://github.com/bitcoin/bitcoin/pull/30239) 
+  - [Package Relay and ARK](https://blog.second.tech/bitcoin-package-relay-and-ark-protocol/)
 - [Boost Your Bitcoin Node Sync With UTXO Snapshots](https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/)
 - [Round Robin Cashu Mint Auditor](https://audit.8333.space/)
 - [Introducing Proto: Building the future of bitcoin mining hardware](https://www.mining.build/blog/introducing-proto-building-the-future-of-bitcoin-mining-hardware-2/)
 - [THE CONSENSUS CONUNDRUM](https://x.com/jamesob/status/1857049961235403101)
   - [bitcoin wiki - covenants support](https://en.bitcoin.it/wiki/Covenants_support)
+  - [CTV, APO, CAT activity on signet](https://delvingbitcoin.org/t/ctv-apo-cat-activity-on-signet/1257)
 - [BITCOIN CORE'S LOSS OF FOCUS](https://x.com/jamesob/status/1860340932706730261)
 
 #### Lightning Projects
