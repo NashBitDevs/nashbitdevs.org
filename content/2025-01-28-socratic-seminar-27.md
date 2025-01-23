@@ -57,6 +57,11 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [HRF - 7BTC to 20 projects worldwide](https://bitcoinmagazine.com/business/human-rights-foundation-donates-700000000-satoshis-to-fund-bitcoin-development-and-projects)
 - [Bitcoin 2024 annual review by Lopp](https://blog.lopp.net/bitcoin-2024-annual-review/)
 - [Anchorwatch grand opening](https://www.anchorwatch.com)
+- [BTCPay Server Accelerating Bitcoin adoption: 2024 in review & 2025 ambitions](https://x.com/BtcpayServer/status/1882090312652255635)
+- [Block open source](https://block.xyz/open-source)
+- BitAxe
+  - [Touch released by SoloSatoshi](https://www.solosatoshi.com/product/bitaxe-touch/)
+  - [Vulernability](https://www.nobsbitcoin.com/bitaxe-firmware-esp-miner-v2-5-0/)
 
 #### Bitcoin Projects
 
@@ -77,9 +82,9 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - LND
   - [Onion messaging + bolt 12 offers](https://github.com/lightningnetwork/lnd/pull/9369)
   - [Add Silent Payment send support](https://github.com/lightningnetwork/lnd/pull/9398)
-LDK
-- [LQWD Liquidity Provider: Get Liquidity When You Need It](https://lightningdevkit.org/blog/lqwd-liquidity-provider-get-liquidity-when-you-need-it/)
-  - [LSP (Just-In-Time) channel integration with LDK Node](https://www.youtube.com/watch?v=-OBKmaxH-yI)
+- LDK
+  - [LQWD Liquidity Provider: Get Liquidity When You Need It](https://lightningdevkit.org/blog/lqwd-liquidity-provider-get-liquidity-when-you-need-it/)
+    - [LSP (Just-In-Time) channel integration with LDK Node](https://www.youtube.com/watch?v=-OBKmaxH-yI)
 - [Building Self Custody Lightning in 2025](https://sats.build/self-custody-lightning-2025/)
 
 #### Research
