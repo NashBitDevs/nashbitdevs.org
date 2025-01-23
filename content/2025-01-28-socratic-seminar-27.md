@@ -53,6 +53,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 #### News
 
 - ["President Donald Trump Pardons Silk Road Founder Ross Ulbricht" Reason Magazine](https://reason.com/2025/01/21/president-donald-trump-pardons-silk-road-founder-ross-ulbricht/)
+- [Open Sats - ADDITIONAL GRANTS FOR BITCOIN CORE CONTRIBUTORS](https://opensats.org/blog/more-for-core)
+- [HRF - 7BTC to 20 projects worldwide](https://bitcoinmagazine.com/business/human-rights-foundation-donates-700000000-satoshis-to-fund-bitcoin-development-and-projects)
+- [Bitcoin 2024 annual review by Lopp](https://blog.lopp.net/bitcoin-2024-annual-review/)
+- [Anchorwatch grand opening](https://www.anchorwatch.com)
 
 #### Bitcoin Projects
 
@@ -60,10 +64,23 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [Change default tx to version 2 BDK #1789](https://github.com/bitcoindevkit/bdk/pull/1789)
 - [Zero Fee Playground](https://supertestnet.github.io/zero_fee_playground/)
 - [BIP: 374: Discrete Log Equality Proofs](https://github.com/bitcoin/bips/blob/master/bip-0374.mediawiki)
+- [Galaxy - Bitcoin Miners Powering the AI Revolution](https://www.galaxy.com/insights/research/bitcoin-mining-ai-revolution/)
+- [Proto - The end of downtime in bitcoin mining](https://www.mining.build/blog/the-end-of-downtime/)
+- [BDK 1.0 release](https://github.com/bitcoindevkit/bdk/releases/tag/wallet-1.0.0)
+- [Bull Bitcoin releases serverless asynchronous Payjoin (BIP77) send and receive capabilities for its mobile wallet](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
+- [coinswap v0.1.0](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0)
 
 #### Lightning Projects
 
 - [Send channel_announcement for splice transactions on public channels eclair #2968](https://github.com/ACINQ/eclair/pull/2968)
+- [Amboss Magma AI](https://bitcoinnews.com/interviews/amboss-magma-ai-smarter-channel-management/)
+- LND
+  - [Onion messaging + bolt 12 offers](https://github.com/lightningnetwork/lnd/pull/9369)
+  - [Add Silent Payment send support](https://github.com/lightningnetwork/lnd/pull/9398)
+LDK
+- [LQWD Liquidity Provider: Get Liquidity When You Need It](https://lightningdevkit.org/blog/lqwd-liquidity-provider-get-liquidity-when-you-need-it/)
+  - [LSP (Just-In-Time) channel integration with LDK Node](https://www.youtube.com/watch?v=-OBKmaxH-yI)
+- [Building Self Custody Lightning in 2025](https://sats.build/self-custody-lightning-2025/)
 
 #### Research
 
