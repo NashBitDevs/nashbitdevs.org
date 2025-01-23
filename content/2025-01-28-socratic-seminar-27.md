@@ -62,6 +62,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - BitAxe
   - [Touch released by SoloSatoshi](https://www.solosatoshi.com/product/bitaxe-touch/)
   - [Vulernability](https://www.nobsbitcoin.com/bitaxe-firmware-esp-miner-v2-5-0/)
+- [Vinteum announcing their Fourth Grant: Plebhash and Stratum V2](https://medium.com/vinteum-org/announcing-our-fourth-grant-plebhash-and-stratum-v2-fec0abbb1840)
 
 #### Bitcoin Projects
 
