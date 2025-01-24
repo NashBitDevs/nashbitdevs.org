@@ -83,7 +83,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - LND
   - [Onion messaging + bolt 12 offers](https://github.com/lightningnetwork/lnd/pull/9369)
   - [Add Silent Payment send support](https://github.com/lightningnetwork/lnd/pull/9398)
-- LDK
+- [LDK v0.1](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.1)
   - [LQWD Liquidity Provider: Get Liquidity When You Need It](https://lightningdevkit.org/blog/lqwd-liquidity-provider-get-liquidity-when-you-need-it/)
     - [LSP (Just-In-Time) channel integration with LDK Node](https://www.youtube.com/watch?v=-OBKmaxH-yI)
 - [Building Self Custody Lightning in 2025](https://sats.build/self-custody-lightning-2025/)
