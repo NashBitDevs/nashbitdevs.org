@@ -46,23 +46,24 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Events
 
-- Jan 2025
-  - [Jan 29: TELEHASH - a one day event supporting the 256 Foundation](https://www.meetup.com/bitcoinpark/events/302955603/)
-  - [Jan 29: Open House #23](https://www.meetup.com/bitcoinpark/events/302981308/)
+- Wednesday Jan 29
+  - [TELEHASH - a one day event supporting the 256 Foundation](https://www.meetup.com/bitcoinpark/events/302955603/)
+  - [Open House #23](https://www.meetup.com/bitcoinpark/events/302981308/)
 
 #### News
 
 - ["President Donald Trump Pardons Silk Road Founder Ross Ulbricht" Reason Magazine](https://reason.com/2025/01/21/president-donald-trump-pardons-silk-road-founder-ross-ulbricht/)
 - [Open Sats - ADDITIONAL GRANTS FOR BITCOIN CORE CONTRIBUTORS](https://opensats.org/blog/more-for-core)
 - [HRF - 7BTC to 20 projects worldwide](https://bitcoinmagazine.com/business/human-rights-foundation-donates-700000000-satoshis-to-fund-bitcoin-development-and-projects)
-- [Bitcoin 2024 annual review by Lopp](https://blog.lopp.net/bitcoin-2024-annual-review/)
-- [Anchorwatch grand opening](https://www.anchorwatch.com)
+- [Vinteum announcing their Fourth Grant: Plebhash and Stratum V2](https://medium.com/vinteum-org/announcing-our-fourth-grant-plebhash-and-stratum-v2-fec0abbb1840)
+- [Anchorwatch](https://www.anchorwatch.com) [grand opening](https://x.com/anchorwatch/status/1876297172204888193)
 - [BTCPay Server Accelerating Bitcoin adoption: 2024 in review & 2025 ambitions](https://x.com/BtcpayServer/status/1882090312652255635)
-- [Block open source](https://block.xyz/open-source)
+  - [Onboarding C# devs](https://x.com/pavlenex/status/1883288660394860892)
 - BitAxe
   - [Touch released by SoloSatoshi](https://www.solosatoshi.com/product/bitaxe-touch/)
+  - [GT Gamma Turbo](https://www.solosatoshi.com/the-dawn-of-the-bitaxe-gt-a-quantum-jump-into-the-future/)
   - [Vulernability](https://www.nobsbitcoin.com/bitaxe-firmware-esp-miner-v2-5-0/)
-- [Vinteum announcing their Fourth Grant: Plebhash and Stratum V2](https://medium.com/vinteum-org/announcing-our-fourth-grant-plebhash-and-stratum-v2-fec0abbb1840)
+- [Bitcoin 2024 annual review by Lopp](https://blog.lopp.net/bitcoin-2024-annual-review/)
 
 #### Bitcoin Projects
 
@@ -72,7 +73,9 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [BIP: 374: Discrete Log Equality Proofs](https://github.com/bitcoin/bips/blob/master/bip-0374.mediawiki)
 - [Galaxy - Bitcoin Miners Powering the AI Revolution](https://www.galaxy.com/insights/research/bitcoin-mining-ai-revolution/)
 - [Proto - The end of downtime in bitcoin mining](https://www.mining.build/blog/the-end-of-downtime/)
+  - [Block open source](https://block.xyz/open-source)
 - [BDK 1.0 release](https://github.com/bitcoindevkit/bdk/releases/tag/wallet-1.0.0)
+  - [A Look Back](https://x.com/bitcoindevkit/status/1869842380666658880)
 - [Bull Bitcoin releases serverless asynchronous Payjoin (BIP77) send and receive capabilities for its mobile wallet](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
 - [coinswap v0.1.0](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0)
 
@@ -86,7 +89,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [LDK v0.1](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.1)
   - [LQWD Liquidity Provider: Get Liquidity When You Need It](https://lightningdevkit.org/blog/lqwd-liquidity-provider-get-liquidity-when-you-need-it/)
     - [LSP (Just-In-Time) channel integration with LDK Node](https://www.youtube.com/watch?v=-OBKmaxH-yI)
-- [Building Self Custody Lightning in 2025](https://sats.build/self-custody-lightning-2025/)
+  - [New Spiral Grantee tankyleo working on Musig2 Taproot channels](https://gist.github.com/tankyleo/ffd7781ad20fadd6e5b4fc700fe90480)
+  - [Griefing disclosure](https://morehouse.github.io/lightning/ldk-invalid-claims-liquidity-griefing/)
 
 #### Research
 
