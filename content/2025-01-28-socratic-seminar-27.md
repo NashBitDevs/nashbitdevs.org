@@ -65,35 +65,35 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
   - [Vulernability](https://www.nobsbitcoin.com/bitaxe-firmware-esp-miner-v2-5-0/)
 - [Bitcoin 2024 annual review by Lopp](https://blog.lopp.net/bitcoin-2024-annual-review/)
 
+#### Research
+
+- [Radpool](https://www.radpool.xyz/1/index.html)
+- [Hashpool](https://github.com/vnprc/hashpool)
+  - [Ecash TIDES using Cashu and Stratum v2](https://delvingbitcoin.org/t/ecash-tides-using-cashu-and-stratum-v2/870/32)
+
 #### Bitcoin Projects
 
 - [Analyzing Mining Pool Behavior to Address Bitcoin Core’s Double Coinbase Reservation Issue](https://delvingbitcoin.org/t/analyzing-mining-pool-behavior-to-address-bitcoin-cores-double-coinbase-reservation-issue/1351)
 - [Change default tx to version 2 BDK #1789](https://github.com/bitcoindevkit/bdk/pull/1789)
 - [Zero Fee Playground](https://supertestnet.github.io/zero_fee_playground/)
 - [BIP: 374: Discrete Log Equality Proofs](https://github.com/bitcoin/bips/blob/master/bip-0374.mediawiki)
+- [BDK 1.0 release](https://github.com/bitcoindevkit/bdk/releases/tag/wallet-1.0.0)
+  - [A Look Back](https://x.com/bitcoindevkit/status/1869842380666658880)
 - [Galaxy - Bitcoin Miners Powering the AI Revolution](https://www.galaxy.com/insights/research/bitcoin-mining-ai-revolution/)
 - [Proto - The end of downtime in bitcoin mining](https://www.mining.build/blog/the-end-of-downtime/)
   - [Block open source](https://block.xyz/open-source)
-- [BDK 1.0 release](https://github.com/bitcoindevkit/bdk/releases/tag/wallet-1.0.0)
-  - [A Look Back](https://x.com/bitcoindevkit/status/1869842380666658880)
 - [Bull Bitcoin releases serverless asynchronous Payjoin (BIP77) send and receive capabilities for its mobile wallet](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
 - [coinswap v0.1.0](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0)
 
 #### Lightning Projects
 
 - [Send channel_announcement for splice transactions on public channels eclair #2968](https://github.com/ACINQ/eclair/pull/2968)
-- [Amboss Magma AI](https://bitcoinnews.com/interviews/amboss-magma-ai-smarter-channel-management/)
-- LND
-  - [Onion messaging + bolt 12 offers](https://github.com/lightningnetwork/lnd/pull/9369)
-  - [Add Silent Payment send support](https://github.com/lightningnetwork/lnd/pull/9398)
 - [LDK v0.1](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.1)
   - [LQWD Liquidity Provider: Get Liquidity When You Need It](https://lightningdevkit.org/blog/lqwd-liquidity-provider-get-liquidity-when-you-need-it/)
     - [LSP (Just-In-Time) channel integration with LDK Node](https://www.youtube.com/watch?v=-OBKmaxH-yI)
   - [New Spiral Grantee tankyleo working on Musig2 Taproot channels](https://gist.github.com/tankyleo/ffd7781ad20fadd6e5b4fc700fe90480)
   - [Griefing disclosure](https://morehouse.github.io/lightning/ldk-invalid-claims-liquidity-griefing/)
-
-#### Research
-
-- [Radpool](https://www.radpool.xyz/1/index.html)
-- [Hashpool](https://github.com/vnprc/hashpool)
-  - [Ecash TIDES using Cashu and Stratum v2](https://delvingbitcoin.org/t/ecash-tides-using-cashu-and-stratum-v2/870/32)
+- LND
+  - [Onion messaging + bolt 12 offers](https://github.com/lightningnetwork/lnd/pull/9369)
+  - [Add Silent Payment send support](https://github.com/lightningnetwork/lnd/pull/9398)
+- [Amboss Magma AI](https://bitcoinnews.com/interviews/amboss-magma-ai-smarter-channel-management/)
