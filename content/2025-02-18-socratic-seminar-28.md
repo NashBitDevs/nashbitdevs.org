@@ -46,13 +46,11 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Events
 
-- March 6
-  - [Bitcoin 101 - An Introduction to Bitcoin](https://www.meetup.com/bitcoinpark/events/306121708)
+- [March 6: Bitcoin 101 - An Introduction to Bitcoin](https://www.meetup.com/bitcoinpark/events/306121708)
 
 #### Demo
 
 - Bitcoin Pep
-  - [Two Wallet](https://gitlab.com/bitcoin-pep/two-wallet-transaction)
   - [Tui Wallet](https://gitlab.com/bitcoin-pep/tui-rust-wallet)
 - Bitcoin Education
   - [Liana Wallet tutorial](https://www.youtube.com/watch?v=JFXTY7Mi7hI)
