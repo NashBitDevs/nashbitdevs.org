@@ -46,6 +46,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Events
 
+- [Feb 24: Mastering the Lightning Network Course](https://www.meetup.com/bitcoinpark/events/306243868/)
 - [March 6: Bitcoin 101 - An Introduction to Bitcoin](https://www.meetup.com/bitcoinpark/events/306121708)
 
 #### Demo
