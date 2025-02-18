@@ -68,6 +68,9 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Lightning Projects
 
-- [Tether on Lightning](https://bitcoinmagazine.com/takes/tether-is-back-on-bitcoin-lightning-dominance-is-just-starting)
+- [Tether on Lightning](https://lightning.engineering/posts/2025-01-30-Tether-on-Lightning/)
+  - [Tether Q4 2024 Attestation Report](https://tether.io/news/tether-hits-13-billion-profits-for-2024-and-all-time-highs-in-u-s-treasury-holdings-usdt-circulation-and-reserve-buffer-in-q4-2024-attestation/)
+  - [Voltage](https://www.voltage.cloud/stablecoins)
+  - [Joltz Wallet](https://x.com/Joltz_btc/status/1885097351108243487)
+- [PR: Zero-fee commitments using v3 transactions](https://github.com/lightning/bolts/pull/1228)
 - [Breez - Bitcoin Payments: From Digital Gold to Everyday Currency](https://x.com/Breez_Tech/status/1887518233432822182)
-- [Pathfinding with LDK](https://lightningdevkit.org/blog/ldk-pathfinding/)
