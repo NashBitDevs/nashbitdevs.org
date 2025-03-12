@@ -59,8 +59,12 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - Bitcoin Spaces
   - [Strategy Hub](https://www.strategy.com/hub)
   - [Presidio Bitcoin](https://www.presidiobitcoin.org)
-- [BitAxe finds another block](https://mempool.space/block/000000000000000000006414aea39be567cf1d5ff6cbf2d77254fe7c714b0d81)
 - [BitKey Inheritance](https://bitkey.build/inheritance-is-live-heres-how-it-works/)
+- [BitAxe finds another block](https://mempool.space/block/000000000000000000006414aea39be567cf1d5ff6cbf2d77254fe7c714b0d81)
+
+#### Research
+
+- [Invalid mining jobs by AntPool & friends during forks](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
 
 #### Bitcoin Projects
 
