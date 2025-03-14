@@ -56,6 +56,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### News
 
+- [Bitwise + BitcoinPark](https://x.com/bitwiseinvest/status/1900555956087357811)
 - Bitcoin Spaces
   - [Strategy Hub](https://www.strategy.com/hub)
   - [Presidio Bitcoin](https://www.presidiobitcoin.org)
