@@ -58,8 +58,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - [Bitwise + BitcoinPark](https://x.com/bitwiseinvest/status/1900555956087357811)
 - Bitcoin Spaces
+  - [Bitcoin Park Austin](https://x.com/bitkite/status/1900897607683039575)
   - [Strategy Hub](https://www.strategy.com/hub)
   - [Presidio Bitcoin](https://www.presidiobitcoin.org)
+- [OpenSats: Tenth Wave of Bitcoin Grants](https://opensats.org/blog/tenth-wave-of-bitcoin-grants)
 - [BitKey Inheritance](https://bitkey.build/inheritance-is-live-heres-how-it-works/)
 - [BitAxe finds another block](https://mempool.space/block/000000000000000000006414aea39be567cf1d5ff6cbf2d77254fe7c714b0d81)
 
