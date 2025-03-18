@@ -66,6 +66,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 #### Research
 
 - [Invalid mining jobs by AntPool & friends during forks](https://b10c.me/observations/14-antpool-and-friends-invalid-mining-jobs/)
+  - [Grid by orangesurf](https://orange.surf/grid/)
+    - [could you please consider renaming Antpool, Poolin, Braiins Pool and Binance Pool to "AntPool & Friends"](https://x.com/BitMEXResearch/status/1899834649314009359)
 
 #### Bitcoin Projects
 
@@ -73,8 +75,14 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
   - [Part 1 Direction](https://antoinep.com/posts/core_project_direction/)
   - [Part 2 Obvious](https://antoinep.com/posts/stating_the_obvious/)
   - [Part 3 Scope](https://antoinep.com/posts/bitcoin_core_scope/)
+    - [Multiprocess Bitcoin Design Document](https://github.com/bitcoin/bitcoin/blob/master/doc/design/multiprocess.md)
+    - [PR: Multiprocess bitcoin](https://github.com/bitcoin/bitcoin/pull/10102)
+    - [core_bdk_wallet - prev discussed at NashBitDevs Socratic Seminar #26](https://github.com/darosior/core_bdk_wallet)
 - [Bitcoin Forking Guide](https://delvingbitcoin.org/t/bitcoin-forking-guide/1451)
 - [CTV+CSFS](https://delvingbitcoin.org/t/ctv-csfs-can-we-reach-consensus-on-a-first-step-towards-covenants/1509)
+  - [BIP 119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki)
+  - [BIP 348](https://github.com/bitcoin/bips/pull/1535)
+    - [PR](https://github.com/bitcoin/bitcoin/pull/29270)
 
 #### Lightning Projects
 
