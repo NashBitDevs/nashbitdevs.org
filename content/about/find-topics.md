@@ -36,6 +36,8 @@ NashBitDevs meetups. If you have any others to add to the list let us know.
   - [BitDevs Sydney](https://www.meetup.com/Bitcoin_Sydney/)
   - [BitDevs Berlin](https://bitdevs.berlin/)
   - [BitDevs Los Angeles](https://bitdevsla.org)
+  - [BitDevs Washington DC](https://dcbitdevs.com/)
+
   
 ### [Freenode IRC](https://freenode.net/)
 
