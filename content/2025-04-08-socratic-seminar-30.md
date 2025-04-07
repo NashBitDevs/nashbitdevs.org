@@ -62,6 +62,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Lightning Projects
 
+- ["Zip Zap Protocol" by Stephen DeLorme](https://github.com/sbddesign/zipzap)
 - ["Implement quiescence protocol" rust-lightning #3588](https://github.com/lightningdevkit/rust-lightning/pull/3588)
 - ["Add support for using last_funding_locked tlv in channel_reestablish" eclair #3007](https://github.com/ACINQ/eclair/pull/3007)
 
