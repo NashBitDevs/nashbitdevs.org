@@ -58,6 +58,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - ["Introduce evicted-at/last-evicted timestamps" bdk #1839](https://github.com/bitcoindevkit/bdk/pull/1839)
 - ["Add support for pay to anchor outputs" rust-bitcoin #4111](https://github.com/rust-bitcoin/rust-bitcoin/pull/4111)
+- ["Bitcoin Covenants: CHECKSIGFROMSTACK (BIP 348)" Shinobi in Bitcoin Mag.](https://bitcoinmagazine.com/technical/bitcoin-covenants-checksigfromstack-bip-348?utm_source=substack&utm_medium=email)
 
 #### Lightning Projects
 
