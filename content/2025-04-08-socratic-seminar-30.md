@@ -53,7 +53,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - [Bitcoin Core 29.0rc3](https://bitcoincore.org/bin/bitcoin-core-29.0/) is a release candidate for the next major version of the network’s predominate full node. Please see the [version 29 testing guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/29.0-Release-Candidate-Testing-Guide).
 - [DMND is launching Stratum v2 pooled mining](https://www.dmnd.work/)
-- [Phoenix Wallet back in the USA](https://nitter.poast.org/PhoenixWallet)
+- [Phoenix Wallet back in the USA](https://nitter.poast.org/acinq_co/status/1909651903421554833)
 - [Leonardo, new BDK maintainer supported by Vinteum](https://nitter.poast.org/Vinteum_org/status/1909617517451960724)
 
 #### Bitcoin Projects
