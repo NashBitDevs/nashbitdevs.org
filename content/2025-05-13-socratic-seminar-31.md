@@ -61,6 +61,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - [Remove arbitrary limits on OP_Return (datacarrier) outputs](https://github.com/bitcoin/bitcoin/pull/32359)
   - [OP_RETURN](https://mempool.space/tx/64a4b1efaeedfe88596c118f7ba5b48cac498cbdb51bc3e8366edd0d20da2662?mode=details)
+  - [non-binding statement by instagibbs](https://gist.github.com/instagibbs/c436110890ab25aa9997b13c2270d5ce)
+  - [relay_policy_drama by antoinep](https://antoinep.com/posts/relay_policy_drama/)
 - "Cove Wallet" iOS test flight [releases 0.3.0](https://github.com/bitcoinppl/cove/releases/tag/v0.3.0) includes TAPSIGNER support 🎉 
   - [rust-cktap](https://github.com/notmandatory/rust-cktap)
 - [Redefine Bitcoin’s Base Unit assigned BIP number](https://github.com/bitcoin/bips/pull/1821)
