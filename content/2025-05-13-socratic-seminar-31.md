@@ -59,6 +59,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Bitcoin Projects
 
+- "Cove Wallet" iOS test flight [releases 0.3.0](https://github.com/bitcoinppl/cove/releases/tag/v0.3.0) includes TAPSIGNER support 🎉 
+  - [rust-cktap](https://github.com/notmandatory/rust-cktap)
+- [Redefine Bitcoin’s Base Unit assigned BIP number](https://github.com/bitcoin/bips/pull/1821)
+  - [Designathon: Re-basing Bitcoin ](https://event.bitcoin.design/#project-reczoE4WXQpKW5pZA)
 - [Remove arbitrary limits on OP_Return (datacarrier) outputs (CLOSED)](https://github.com/bitcoin/bitcoin/pull/32359)
   - ["Locked"](https://x.com/glozow/status/1917980119106228587)
   - [policy: uncap datacarrier by default (OPEN)](https://github.com/bitcoin/bitcoin/pull/32406)
@@ -66,7 +70,3 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
   - [gmax](https://bitcointalk.org/index.php?topic=5539943.msg65335891#msg65335891)
   - [non-binding statement by instagibbs](https://gist.github.com/instagibbs/c436110890ab25aa9997b13c2270d5ce)
   - [relay_policy_drama by antoinep](https://antoinep.com/posts/relay_policy_drama/)
-- "Cove Wallet" iOS test flight [releases 0.3.0](https://github.com/bitcoinppl/cove/releases/tag/v0.3.0) includes TAPSIGNER support 🎉 
-  - [rust-cktap](https://github.com/notmandatory/rust-cktap)
-- [Redefine Bitcoin’s Base Unit assigned BIP number](https://github.com/bitcoin/bips/pull/1821)
-  - [Designathon: Re-basing Bitcoin ](https://event.bitcoin.design/#project-reczoE4WXQpKW5pZA)
