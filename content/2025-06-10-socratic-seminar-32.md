@@ -65,6 +65,7 @@ payments on Square](https://squareup.com/us/en/press/block-to-roll-out-bitcoin-p
 - [[Rust] descriptor-encrypt: Encrypt any descriptor such that only authorized spenders can decrypt](https://delvingbitcoin.org/t/rust-descriptor-encrypt-encrypt-any-descriptor-such-that-only-authorized-spenders-can-decrypt/1750)
 - Developers Signing Statements
   - [A statement on Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)
+    - [MERGED: policy: uncap datacarrier by default](https://github.com/bitcoin/bitcoin/pull/32406)
   - [CTV + CSFS](https://ctv-csfs.com)
 - [bdk_wallet 2.0.0](https://github.com/bitcoindevkit/bdk_wallet/releases/tag/wallet-2.0.0)
   - [ldk-node 0.6.0](https://github.com/lightningdevkit/ldk-node/releases/tag/v0.6.0)
