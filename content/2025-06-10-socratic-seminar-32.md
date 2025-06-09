@@ -46,6 +46,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### News
 
+- [Stable Channels](https://stablechannels.com) announcement @toneloc
 - Bitcoin Payments
   - [Steak 'n Shake  officially accepting bitcoin payments](https://x.com/SteaknShake/status/1923426316478558571)
     - [Redefine Bitcoin’s Base Unit assigned BIP number](https://github.com/bitcoin/bips/pull/1821)
