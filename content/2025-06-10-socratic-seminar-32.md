@@ -46,10 +46,11 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### News
 
-- [Steak 'n Shake  officially accepting bitcoin payments](https://x.com/SteaknShake/status/1923426316478558571)
-  - [Redefine Bitcoin’s Base Unit assigned BIP number](https://github.com/bitcoin/bips/pull/1821)
-    - [Designathon: Re-basing Bitcoin ](https://event.bitcoin.design/#project-reczoE4WXQpKW5pZA)
-- [Block to roll out bitcoin
+- Bitcoin Payments
+  - [Steak 'n Shake  officially accepting bitcoin payments](https://x.com/SteaknShake/status/1923426316478558571)
+    - [Redefine Bitcoin’s Base Unit assigned BIP number](https://github.com/bitcoin/bips/pull/1821)
+      - [Designathon: Re-basing Bitcoin ](https://event.bitcoin.design/#project-reczoE4WXQpKW5pZA)
+  - [Block to roll out bitcoin
 payments on Square](https://squareup.com/us/en/press/block-to-roll-out-bitcoin-payments-on-square)
 - New [Save our Wallets](https://saveourwallets.org) page with info about "Blockchain Regulatory Certainty Act"
 
@@ -62,7 +63,9 @@ payments on Square](https://squareup.com/us/en/press/block-to-roll-out-bitcoin-p
 #### Bitcoin Projects
 
 - [[Rust] descriptor-encrypt: Encrypt any descriptor such that only authorized spenders can decrypt](https://delvingbitcoin.org/t/rust-descriptor-encrypt-encrypt-any-descriptor-such-that-only-authorized-spenders-can-decrypt/1750)
-- [A statement on Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)
+- Developers Signing Statements
+  - [A statement on Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)
+  - [CTV + CSFS](https://ctv-csfs.com)
 
 #### Research
 
