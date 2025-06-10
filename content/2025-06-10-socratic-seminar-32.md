@@ -58,8 +58,12 @@ payments on Square](https://squareup.com/us/en/press/block-to-roll-out-bitcoin-p
 #### Lightning Projects
 
 - [Phoenix v2.6.1](https://github.com/ACINQ/phoenix/releases/tag/android-v2.6.1) adds support for reading and emulating NFC tags
+  - [HCE](https://developer.apple.com/support/hce-transactions-in-apps/)
+  - [CardSession API](https://developer.apple.com/documentation/corenfc/cardsession)
 - ["Add support for Phoenixd" btcpayserver#169](https://github.com/btcpayserver/BTCPayServer.Lightning/pull/169)
 - [Amboss Launches Rails, a Self-Custodial Bitcoin Yield Service](https://x.com/ambosstech/status/1928194644699140509)
+  - [Block and Bitrefill lightning nodes](https://x.com/bitrefill/status/1930217463779676334)
+  - ["Lightning network yield is the bitcoin wallet business model""](https://x.com/ten31funds/status/1930388796715024395)
 
 #### Bitcoin Projects
 
