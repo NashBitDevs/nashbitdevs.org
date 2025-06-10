@@ -49,10 +49,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [Stable Channels](https://stablechannels.com) announcement @toneloc
 - Bitcoin Payments
   - [Steak 'n Shake  officially accepting bitcoin payments](https://x.com/SteaknShake/status/1923426316478558571)
+  - [Block to roll out bitcoin
+payments on Square](https://squareup.com/us/en/press/block-to-roll-out-bitcoin-payments-on-square
     - [Redefine Bitcoin’s Base Unit assigned BIP number](https://github.com/bitcoin/bips/pull/1821)
       - [Designathon: Re-basing Bitcoin ](https://event.bitcoin.design/#project-reczoE4WXQpKW5pZA)
-  - [Block to roll out bitcoin
-payments on Square](https://squareup.com/us/en/press/block-to-roll-out-bitcoin-payments-on-square)
 - New [Save our Wallets](https://saveourwallets.org) page with info about "Blockchain Regulatory Certainty Act"
 
 #### Lightning Projects
