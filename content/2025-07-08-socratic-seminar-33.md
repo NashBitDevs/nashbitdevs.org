@@ -38,7 +38,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 ### Raffle
 
-  - Guess the [next block nonce](https://nonce.notmandatory.org/)
+  - Guess the [next block nonce](https://nonce.lab.bitcoinpark.com/)
     - Must be 8 hex characters, `0-9` and `A-F`, eg. `9A74E2B1`
   - Winner(s) ranked by numeric closeness to next block nonce
 
