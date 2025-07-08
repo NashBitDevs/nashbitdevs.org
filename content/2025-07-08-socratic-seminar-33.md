@@ -61,6 +61,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - ["How Stratum V2 Increases Mining Profitability" By Pavlenex](https://stratumprotocol.org/blog/case-study/hashlabs/)
 - [The case for privatizing Bitcoin Core](https://groups.google.com/g/bitcoindev/c/43yjt8MXMvo/m/h1loD2ciBQAJ)
 - [What's a good stopping point? Making the case for the capabilities enabled by CTV+CSFS](https://groups.google.com/g/bitcoindev/c/-qJc1EWQzY0)
+  - [OpTech - Responses from Bitcoin Core contributors re: Open letter about CTV and CSFS](https://bitcoinops.org/en/newsletters/2025/07/04/#responses-from-bitcoin-core-contributors)
 - [Augur, a mempool-based fee estimator](https://primal.net/e/nevent1qqszpp9a7mdfc6uzpyu2rm4cmvxy2y9xyrt8luk6qvgwgy6v3l998cq9rafzp)
 
 #### Lightning Projects
