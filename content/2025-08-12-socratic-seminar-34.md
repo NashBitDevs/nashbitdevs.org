@@ -70,6 +70,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [[core] RPC: Return permitbaremultisig and maxdatacarriersize in getmempoolinfo #29954](https://github.com/bitcoin/bitcoin/pull/29954)
   - [PR 133106 - policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/33106)
 - [Changing the minimum relay feerate](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
+  - [PR - test: Update p2p_ibd_tx_relay.py to support minrelaytxfee as low as 100 sats/kvB](https://github.com/RobinLinus/bitcoin/pull/1)
 - [BTCPay Server 2.2.0 Release](https://github.com/btcpayserver/btcpayserver/releases/tag/v2.2.0)
 - [[core] descriptors: MuSig2 #31244](https://github.com/bitcoin/bitcoin/pull/31244)
 - [[core] p2p: TxOrphanage revamp cleanups #32941](https://github.com/bitcoin/bitcoin/pull/32941)
@@ -83,6 +84,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 #### Lightning Projects
 
 - [LDK - LSPS5 implementation](https://github.com/lightningdevkit/rust-lightning/pull/3662)
+- [Bitronics guide - Connecting your home miner to OCEAN and Configuring Payouts Using the Lightning Network](https://bitronics.store/ocean/)
 - [Amboss- The New Magma Is Live](https://x.com/ambosstech/status/1954890687318753524)
 - [Voltage - Introducing Node-Backed Wallets: The Best of Lightning Payments with Full Node Control](https://www.voltage.cloud/blog/introducing-node-backed-wallets-the-best-of-lightning-payments-with-full-node-control)
 
