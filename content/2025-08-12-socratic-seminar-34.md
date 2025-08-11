@@ -58,8 +58,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [[SNI] "Introducing The Reorg" ](https://news.nakamotoinstitute.org/p/introducing-the-reorg)
 - [[BM] "Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business"](https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty)
   - [Peer-to-peer Rights Fund](https://p2prights.org/projects.html)
-- [[BM] "Tornado Cash Trial Concludes: Roman Storm Found Guilty on One of Three Counts"](https://bitcoinmagazine.com/news/tornado-cash-trial-concludes-roman-storm-found-guilty-of-one-of-three-counts-
+- [[BM] "Tornado Cash Trial Concludes: Roman Storm Found Guilty on One of Three Counts"](https://bitcoinmagazine.com/news/tornado-cash-trial-concludes-roman-storm-found-guilty-of-one-of-three-counts)
 * Jack D. [announces](https://primal.net/e/nevent1qqs2emgu7ltgzl9lju8tythsuf6732xjxn4h4c639hdez7rtwwev7nqsx3e3f) Bitchat is now available on the Apple App Store
+- [OpenSats - Advancements in Developer Libraries](https://opensats.org/blog/advancements-in-developer-libraries)
+- [The Payjoin Foundation is announced at Bitcoin++ Riga](https://insider.btcpp.dev/p/the-payjoin-foundation-is-announced)
 
 #### Bitcoin Projects
 
@@ -74,12 +76,19 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [[bdk_ffi] BDK wallet 2.0 Release for language bindings](https://discord.com/channels/753336465005608961/753367368276902019/1400550790375931954)
 - [[bdk_ffi] Remove Python #815](https://github.com/bitcoindevkit/bdk-ffi/pull/815)
 - [[bdk_wallet] Release wallet-2.1.0](https://github.com/bitcoindevkit/bdk_wallet/releases/tag/wallet-2.1.0)
+- [f2pool is mining annex-containing transactions now)[https://x.com/peterktodd/status/1940070152663421272)
+- [New Sankey visual on stratum.work](https://stratum.work/sankey)
+- [Interactive explainer of wallet seed phrases, entropy, and BIP39](https://bennet.org/blog/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/)
 
 #### Lightning Projects
 
+- [LDK - LSPS5 implementation](https://github.com/lightningdevkit/rust-lightning/pull/3662)
+- [Amboss- The New Magma Is Live](https://x.com/ambosstech/status/1954890687318753524)
+- [Voltage - Introducing Node-Backed Wallets: The Best of Lightning Payments with Full Node Control](https://www.voltage.cloud/blog/introducing-node-backed-wallets-the-best-of-lightning-payments-with-full-node-control)
 
 #### Research
 
-* [Stats on compact block reconstructions](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052)
-* [[bitcoindev] Taproot is post-quantum secure when restricted to script-path spends](https://mailing-list.bitcoindevs.xyz/bitcoindev/bee6b897379b9ae0c3d48f53d40a6d70fe7915f0.camel@real-or-random.org/#r)
+- [Stats on compact block reconstructions](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052)
+- [[bitcoindev] Taproot is post-quantum secure when restricted to script-path spends](https://mailing-list.bitcoindevs.xyz/bitcoindev/bee6b897379b9ae0c3d48f53d40a6d70fe7915f0.camel@real-or-random.org/#r)
 - ["Block filter design guide"](https://rustaceanrob.com/blog/13-cbf-design)  by @rustaceanrob
+- [Chain Code Delegation: Private Access Control for Bitcoin Keys](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys/1837)
