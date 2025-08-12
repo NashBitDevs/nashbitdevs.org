@@ -61,23 +61,25 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [[BM] "Tornado Cash Trial Concludes: Roman Storm Found Guilty on One of Three Counts"](https://bitcoinmagazine.com/news/tornado-cash-trial-concludes-roman-storm-found-guilty-of-one-of-three-counts)
 * Jack D. [announces](https://primal.net/e/nevent1qqs2emgu7ltgzl9lju8tythsuf6732xjxn4h4c639hdez7rtwwev7nqsx3e3f) Bitchat is now available on the Apple App Store
 - [OpenSats - Advancements in Developer Libraries](https://opensats.org/blog/advancements-in-developer-libraries)
-- [The Payjoin Foundation is announced at Bitcoin++ Riga](https://insider.btcpp.dev/p/the-payjoin-foundation-is-announced)
+  - [The Payjoin Foundation is announced at Bitcoin++ Riga](https://insider.btcpp.dev/p/the-payjoin-foundation-is-announced)
 
 #### Bitcoin Projects
 
 - [Augur: Block’s Open Source Bitcoin Fee Estimation Library](https://delvingbitcoin.org/t/augur-block-s-open-source-bitcoin-fee-estimation-library/1848)
 - [[bitcoindev] A Taproot-native (re-)bindable transaction bundle proposal](https://mailing-list.bitcoindevs.xyz/bitcoindev/26b96fb1-d916-474a-bd23-920becc3412cn@googlegroups.com/#r)
 - [[core] RPC: Return permitbaremultisig and maxdatacarriersize in getmempoolinfo #29954](https://github.com/bitcoin/bitcoin/pull/29954)
-  - [PR 133106 - policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/33106)
 - [Changing the minimum relay feerate](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
+  - [PR 133106 - policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/33106)
   - [PR - test: Update p2p_ibd_tx_relay.py to support minrelaytxfee as low as 100 sats/kvB](https://github.com/RobinLinus/bitcoin/pull/1)
 - [BTCPay Server 2.2.0 Release](https://github.com/btcpayserver/btcpayserver/releases/tag/v2.2.0)
 - [[core] descriptors: MuSig2 #31244](https://github.com/bitcoin/bitcoin/pull/31244)
 - [[core] p2p: TxOrphanage revamp cleanups #32941](https://github.com/bitcoin/bitcoin/pull/32941)
-- [[bdk_ffi] BDK wallet 2.0 Release for language bindings](https://discord.com/channels/753336465005608961/753367368276902019/1400550790375931954)
+- [[bdk_ffi] BDK wallet 2.0 Release for language bindings](https://github.com/bitcoindevkit/bdk-ffi/blob/master/CHANGELOG.md#v200)
 - [[bdk_ffi] Remove Python #815](https://github.com/bitcoindevkit/bdk-ffi/pull/815)
 - [[bdk_wallet] Release wallet-2.1.0](https://github.com/bitcoindevkit/bdk_wallet/releases/tag/wallet-2.1.0)
 - [f2pool is mining annex-containing transactions now](https://x.com/peterktodd/status/1940070152663421272)
+  - [bitcoin++ - F2Pool and MARA are mining Taproot Annexes](https://insider.btcpp.dev/p/f2pool-and-mara-are-mining-taproot)
+  - [labitbu](https://mempool.space/tx/f08fd61d48f79eeb0c4bc9e58f2d7ecad0e20e5d6411b588590cb0480c8e7fbe)
 - [New Sankey visual on stratum.work](https://stratum.work/sankey)
 - [Interactive explainer of wallet seed phrases, entropy, and BIP39](https://bennet.org/blog/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/)
 
