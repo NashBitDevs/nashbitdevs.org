@@ -67,6 +67,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
   - [blockstorage: XOR blocksdir *.dat files bitcoin#28052](https://github.com/bitcoin/bitcoin/pull/28052)
 - [Add initializing wallet configuration with bdk-cli wallet init bdk-cli#203](https://github.com/bitcoindevkit/bdk-cli/pull/203)
 - [rust-cktap project refreshed](https://github.com/notmandatory/rust-cktap)
+- [PR on Bitcoin Knots for CTV & CSFS](https://x.com/rob1ham/status/1965204737936294149)
 - [Rambling on Schnorr Signature aggregation and current use cases](https://x.com/rob1ham/status/1962156627844374696)
 
 #### Lightning Projects
