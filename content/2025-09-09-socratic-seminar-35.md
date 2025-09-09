@@ -57,6 +57,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [Block 913272 was found by a small miner using QAxe++](https://x.com/snednode/status/1963911944634618276)
 - [Proto Rig and Proto Fleet: A paradigm shift in bitcoin mining](https://proto.xyz/blog/posts/proto-rig-and-proto-fleet-a-paradigm-shift)
 - [Nunchuck adds miniscript](https://x.com/nunchuk_io/status/1960990764454056229)
+  - [Walkthru video](https://x.com/saniexp/status/1961040572547838315)
+  - [Valentino - Miniscript refresher](https://x.com/vazertuche/status/1961551301692854548)
 - [Bitcoin Safe releases v1.5](https://bitcoinmagazine.com/business/opensats-grant-fuels-bitcoin-safes-secure-multisig-wallet-launch-with-hardware-focus)
 
 #### Bitcoin Projects
