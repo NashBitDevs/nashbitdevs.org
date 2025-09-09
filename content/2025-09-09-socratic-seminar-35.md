@@ -53,7 +53,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 #### News
 
 - ["We Just Found Malicious Code in the Popular NPM Package" JD](https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the)
-- [Block 913272 was found yesterday by a small miner using QAxe++](https://x.com/snednode/status/1963911944634618276)
+- ["New Market Structure Draft Amends Money Transmission Laws To Protect Developers" the rage](https://www.therage.co/senate-banking-money-transmission-developer-protection/)
+- [Block 913272 was found by a small miner using QAxe++](https://x.com/snednode/status/1963911944634618276)
 - [Proto Rig and Proto Fleet: A paradigm shift in bitcoin mining](https://proto.xyz/blog/posts/proto-rig-and-proto-fleet-a-paradigm-shift)
 - [Nunchuck adds miniscript](https://x.com/nunchuk_io/status/1960990764454056229)
 - [Bitcoin Safe releases v1.5](https://bitcoinmagazine.com/business/opensats-grant-fuels-bitcoin-safes-secure-multisig-wallet-launch-with-hardware-focus)
