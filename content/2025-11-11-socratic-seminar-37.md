@@ -70,6 +70,12 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Lightning Projects
 
+- Ark
+  - [arkade.money](https://arkade.money)
+- Spark
+  - [No clear way to run an SSP without a business relationship with LightSpark?](https://github.com/buildonspark/spark/issues/64)
+- Phoenix [v2.7.0: Taproot channels](https://github.com/ACINQ/phoenix/releases/tag/android-v2.7.0)
+
 #### New Work / Research
 
 - ["Sovereignty Without Sacrifice" by Shawn Yeager](https://shawnyeager.com/sovereignty-without-sacrifice/)
