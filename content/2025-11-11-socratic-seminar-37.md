@@ -59,6 +59,14 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 #### Bitcoin Projects
 
 - [fork-observer](https://github.com/0xb10c/fork-observer)
+- core
+  - [Bitcoin Core 30.0 released](https://bitcoincore.org/en/releases/30.0/)
+    - [bitnod.es](https://www.bitnod.es) from BitMEXResearch as alternative to [to bitnodes.io](http://bitnodes.io)
+  - [docs: Undeprecate datacarrier and datacarriersize configuration options](https://x.com/bitschmidty/status/1985791547665682647?s=12&t=tjvL-eINwWwpULIItNU3KA)
+  - [Bitcoin Core developers met up in Frankfurt Germany](https://btctranscripts.com/bitcoin-core-dev-tech/2025-10)
+  - [kernel: Introduce C header API](https://github.com/bitcoin/bitcoin/pull/30595)
+  - [Reduced Data Temporary Softfork](https://github.com/bitcoin/bips/pull/2017)
+    - [prediction market](https://beta.predyx.com/market/will-the-reduce-data-temporary-soft-fork-be-consensus-enforced-on-the-most-work-bitcoin-chain-tip-by-march-1st-2026-1762275376)
 
 #### Lightning Projects
 
