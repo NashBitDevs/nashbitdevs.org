@@ -54,6 +54,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
   - [Compass coffee payment video](https://primal.net/e/nevent1qqs8pgr245w2rtf07dnd9pdqtg7786ds5kyu4llvs2kxmaj4c4qrajsfxehmf)
 - [How the U.S. Government Seized 120,000 BTC From Cambodia's "Pig-Butchering" Kingpin](https://wublock.substack.com/p/how-the-us-government-seized-120000)
 - ["US Government Seeks Maximum Sentence For Keonne Rodriguez And William Hill"](https://www.therage.co/samourai-wallet-maximum-sentence/) [L0la L33tz](https://www.therage.co/author/therage/)
+- [NerdQaxe++ Found a Block](https://www.solosatoshi.com/nerdqaxe-revision-6-block-found-on-public-pool/)
 
 #### Bitcoin Projects
 
