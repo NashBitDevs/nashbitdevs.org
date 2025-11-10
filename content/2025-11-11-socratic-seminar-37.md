@@ -67,6 +67,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
   - [kernel: Introduce C header API](https://github.com/bitcoin/bitcoin/pull/30595)
   - [Reduced Data Temporary Softfork](https://github.com/bitcoin/bips/pull/2017)
     - [prediction market](https://beta.predyx.com/market/will-the-reduce-data-temporary-soft-fork-be-consensus-enforced-on-the-most-work-bitcoin-chain-tip-by-march-1st-2026-1762275376)
+    - [BIP-444-Futures](https://github.com/Rob1Ham/BIP-444-Futures)
+- [sv2-startos](https://github.com/PioneerHash/sv2-startos)
 
 #### Lightning Projects
 
