@@ -52,7 +52,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - [Square Bitcoin Payments Acceptance went live on November 10](https://x.com/Square/status/1987886908480033186)
   - [Compass coffee payment video](https://primal.net/e/nevent1qqs8pgr245w2rtf07dnd9pdqtg7786ds5kyu4llvs2kxmaj4c4qrajsfxehmf)
-  - [map](https://x.com/jack/status/1987893775633420760)
+  - [map](https://x.com/jack/status/1987995933100171608)
 - [How the U.S. Government Seized 120,000 BTC From Cambodia's "Pig-Butchering" Kingpin](https://wublock.substack.com/p/how-the-us-government-seized-120000)
 - ["US Government Seeks Maximum Sentence For Keonne Rodriguez And William Hill"](https://www.therage.co/samourai-wallet-maximum-sentence/) [L0la L33tz](https://www.therage.co/author/therage/)
 - [NerdQaxe++ Found a Block](https://www.solosatoshi.com/nerdqaxe-revision-6-block-found-on-public-pool/)
@@ -81,11 +81,12 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Lightning Projects
 
+- Phoenix [v2.7.0: Taproot channels](https://github.com/ACINQ/phoenix/releases/tag/android-v2.7.0)
 - Ark
   - [arkade.money](https://arkade.money)
+  - [arke](https://github.com/gbks/arke)
 - Spark
   - [No clear way to run an SSP without a business relationship with LightSpark?](https://github.com/buildonspark/spark/issues/64)
-- Phoenix [v2.7.0: Taproot channels](https://github.com/ACINQ/phoenix/releases/tag/android-v2.7.0)
 
 #### New Work / Research
 
