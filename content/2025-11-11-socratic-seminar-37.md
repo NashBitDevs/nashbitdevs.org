@@ -50,12 +50,14 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### News
 
-- [Square Bitcoin Payments Acceptance will be live for everyone on November 10](https://primal.net/e/nevent1qqsvksut6hyx0ak70wfzx5kqe0cuk7t07ennwfpgzgrg9nrqssud72cff86h6)
+- [Square Bitcoin Payments Acceptance went live on November 10](https://x.com/Square/status/1987886908480033186)
   - [Compass coffee payment video](https://primal.net/e/nevent1qqs8pgr245w2rtf07dnd9pdqtg7786ds5kyu4llvs2kxmaj4c4qrajsfxehmf)
   - [map](https://x.com/jack/status/1987893775633420760)
 - [How the U.S. Government Seized 120,000 BTC From Cambodia's "Pig-Butchering" Kingpin](https://wublock.substack.com/p/how-the-us-government-seized-120000)
 - ["US Government Seeks Maximum Sentence For Keonne Rodriguez And William Hill"](https://www.therage.co/samourai-wallet-maximum-sentence/) [L0la L33tz](https://www.therage.co/author/therage/)
 - [NerdQaxe++ Found a Block](https://www.solosatoshi.com/nerdqaxe-revision-6-block-found-on-public-pool/)
+  - [Block 920440](https://mempool.space/block/0000000000000000000022b7f4d4475c72653a898672c121715af5c62c5f21da)
+  - [Reddit](https://www.reddit.com/r/BitAxe/comments/1ofhla9/i_found_a_block_a_btc_block_solo/)
 
 #### Bitcoin Projects
 
@@ -63,12 +65,18 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - core
   - [Bitcoin Core 30.0 released](https://bitcoincore.org/en/releases/30.0/)
     - [bitnod.es](https://www.bitnod.es) from BitMEXResearch as alternative to [to bitnodes.io](http://bitnodes.io)
-  - [docs: Undeprecate datacarrier and datacarriersize configuration options](https://x.com/bitschmidty/status/1985791547665682647?s=12&t=tjvL-eINwWwpULIItNU3KA)
-  - [Bitcoin Core developers met up in Frankfurt Germany](https://btctranscripts.com/bitcoin-core-dev-tech/2025-10)
-  - [kernel: Introduce C header API](https://github.com/bitcoin/bitcoin/pull/30595)
+  - [docs: Undeprecate datacarrier and datacarriersize configuration options](https://github.com/bitcoin/bitcoin/pull/33453)
+  - AGENTS.md
+    - [bitcoin](https://github.com/bitcoin/bitcoin/pull/33662)
+    - [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/pull/5251)
+  - chainparams
+    - [remove petertodd.net](https://github.com/bitcoin/bitcoin/pull/33730)
+    - [remove dnsseed.bitcoin.dashjr-list-of-p2p-nodes.us](https://github.com/bitcoin/bitcoin/pull/33723)
   - [Reduced Data Temporary Softfork](https://github.com/bitcoin/bips/pull/2017)
     - [prediction market](https://beta.predyx.com/market/will-the-reduce-data-temporary-soft-fork-be-consensus-enforced-on-the-most-work-bitcoin-chain-tip-by-march-1st-2026-1762275376)
     - [BIP-444-Futures](https://github.com/Rob1Ham/BIP-444-Futures)
+    - [bip444-contract](https://github.com/lifofifoX/bip444-contract)
+        - [mempool.space](https://mempool.space/tx/3a6012d3eed58592fd48f84b9d5b15da261509685f2cdb1a6832775a173bb906)
 - [sv2-startos](https://github.com/PioneerHash/sv2-startos)
 
 #### Lightning Projects
