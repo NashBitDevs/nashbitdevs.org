@@ -52,6 +52,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - [Square Bitcoin Payments Acceptance will be live for everyone on November 10](https://primal.net/e/nevent1qqsvksut6hyx0ak70wfzx5kqe0cuk7t07ennwfpgzgrg9nrqssud72cff86h6)
   - [Compass coffee payment video](https://primal.net/e/nevent1qqs8pgr245w2rtf07dnd9pdqtg7786ds5kyu4llvs2kxmaj4c4qrajsfxehmf)
+  - [map](https://x.com/jack/status/1987893775633420760)
 - [How the U.S. Government Seized 120,000 BTC From Cambodia's "Pig-Butchering" Kingpin](https://wublock.substack.com/p/how-the-us-government-seized-120000)
 - ["US Government Seeks Maximum Sentence For Keonne Rodriguez And William Hill"](https://www.therage.co/samourai-wallet-maximum-sentence/) [L0la L33tz](https://www.therage.co/author/therage/)
 - [NerdQaxe++ Found a Block](https://www.solosatoshi.com/nerdqaxe-revision-6-block-found-on-public-pool/)
@@ -80,6 +81,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### New Work / Research
 
+- [Secure Fountain Codes](https://x.com/roasbeef/status/1973914845247594840)
 - ["Sovereignty Without Sacrifice" by Shawn Yeager](https://shawnyeager.com/sovereignty-without-sacrifice/)
 - "Why is Privacy Important to Bitcoin?" -- [www.BTCMedusa.com](http://www.btcmedusa.com/)
 - [TEE.fail:Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition](https://tee.fail)
