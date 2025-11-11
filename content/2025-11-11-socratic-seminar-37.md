@@ -48,6 +48,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - Nov 13 @ 5pm: [Park 101: intro to bitcoin](https://www.meetup.com/bitcoinpark/events/309195906/?eventOrigin=group_events_list)
 
+#### Demo
+
+- [Noah's Ark](https://x.com/matthewvuk2/status/1988038741282484307)
+
 #### News
 
 - [Square Bitcoin Payments Acceptance went live on November 10](https://x.com/Square/status/1987886908480033186)
