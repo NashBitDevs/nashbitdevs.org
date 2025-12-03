@@ -46,7 +46,12 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Events
 
+- [Wednesday - Open House](https://www.meetup.com/bitcoinpark/events/311746108)
+- [Thursday - Park 102 workshop](https://www.meetup.com/bitcoinpark/events/309195928)
+
 #### News
+
+- [#freesamourai](https://www.change.org/p/stand-up-for-freedom-pardon-the-innocent-coders-jailed-for-building-privacy-tools?utm_medium=custom_url&utm_source=share_petition&recruited_by_id=02661b10-bf6a-11f0-b550-a388e9e41739)
 
 #### Bitcoin Projects
 
