@@ -56,8 +56,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [BOSS Challenge: Applications open](https://bosschallenge.xyz/)
 - ["DMND Pool Now Open To All Miners, With SOC 2 Compliance and Stratum V2 Support"](https://bitcoinmagazine.com/bitcoin-mining/dmnd-pool-now-open-to-all-miners-with-soc-2-compliance-and-stratum-v2-support?utm_source=substack&utm_medium=email)
 - Blocks found
-  - [Gamma](https://x.com/bitcoinnewscom/status/1991952426874892653)
-  - [The Space](https://x.com/spacedenver/status/1993693074841796898)
+  - [Gamma](https://mempool.space/block/00000000000000000001457a4acc5da8e886dddd0a79a6899957a502e0a1977b)
+  - [The Space](https://mempool.space/block/0000000000000000000027890c7e717f3004fd5f34f4f7795552a145a227fe72)
 - [Quantum futures @Rob1Ham](https://github.com/Rob1Ham/quantum_futures)
 
 #### Demos
@@ -91,7 +91,9 @@ LDK
 
 - [LDK-node Release 0.7.0](https://github.com/lightningdevkit/ldk-node/releases/tag/v0.7.0)
 - [Use BDK events in update_payment_store ldk-node#658](https://github.com/lightningdevkit/ldk-node/pull/658)
-- [Bittr self custodial lightning app](https://x.com/GetBittr/status/1994319347989328138)
+- Bittr self custodial lightning app
+  - [GitHub](https://github.com/getbittr/bittr-ios-app)
+  - [Announcement](https://x.com/GetBittr/status/1994319347989328138)
 - moneydevkit
   - [Public beta](https://x.com/nickslaney/status/1991151978953789614)
   - [Job opening: founding designer](https://x.com/nickslaney/status/1996325189731152255)
