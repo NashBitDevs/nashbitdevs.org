@@ -53,6 +53,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - [#freesamourai](https://www.change.org/p/stand-up-for-freedom-pardon-the-innocent-coders-jailed-for-building-privacy-tools?utm_medium=custom_url&utm_source=share_petition&recruited_by_id=02661b10-bf6a-11f0-b550-a388e9e41739)
 - [“Where is the public roadmap for Bitcoin Core?”](https://nitter.privacyredirect.com/bitschmidty/status/1986100498567499789)
+- [BOSS Challenge: Applications open](https://bosschallenge.xyz/)
 
 #### Demos
 
