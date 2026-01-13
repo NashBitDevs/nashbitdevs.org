@@ -56,14 +56,31 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - Bitcoin UI + AI
 
+#### News
+
+- [OpenSats "Fifteenth Wave of Bitcoin Grants"](https://opensats.org/blog/fifteenth-wave-of-bitcoin-grants)
+- [Bitkey "Not our keys, not our business"](https://bitkey.build/not-our-keys-not-our-business/)
+
 #### Bitcoin Projects
 
-Core
+##### Core
 
 - [Implementation of SwiftSync bitcoin#34004](https://github.com/bitcoin/bitcoin/pull/34004)
 - [Bitcoin Core wallet migration bug](https://gist.github.com/bitschmidty/5144c098c522c0144adfc24d9e1bb9ec)
+- [Replace cluster linearization algorithm with SFL bitcoin#32545](https://github.com/bitcoin/bitcoin/pull/32545)
+
+##### BDK
+
+- [feat!: Persist utxo lock status bdk_wallet#259](https://github.com/bitcoindevkit/bdk_wallet/pull/259)
+
+#### Lightning Projects
+
+- [Default to padding blinded paths LDK#4213](https://github.com/lightningdevkit/rust-lightning/pull/4213)
+- [Accountable HTLCs #3217](https://github.com/ACINQ/eclair/pull/3217)
 
 #### New Work / Research
 
 - ["Hash-based Signature Schemes for Bitcoin"](https://eprint.iacr.org/2025/2203.pdf)
 - ["A New Approach to Universal Bitcoin Wallet Backup with Passkeys and PRF"](https://praveenperera.com/blog/passkey-prf-bitcoin-wallet-backup)
+- [BIP 89: Chain Code Delegation for Private Collaborative Custody #2004](https://github.com/bitcoin/bips/pull/2004)
+- [Marmot Development Kit (MDK)](https://github.com/marmot-protocol/mdk)
