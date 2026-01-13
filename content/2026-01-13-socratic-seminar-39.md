@@ -59,6 +59,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 #### News
 
 - [OpenSats "Fifteenth Wave of Bitcoin Grants"](https://opensats.org/blog/fifteenth-wave-of-bitcoin-grants)
+- [bitcoin.design 2026 Impact Initiatives](https://bitcoin.design/projects/)
 - [Bitkey "Not our keys, not our business"](https://bitkey.build/not-our-keys-not-our-business/)
 
 #### Bitcoin Projects
