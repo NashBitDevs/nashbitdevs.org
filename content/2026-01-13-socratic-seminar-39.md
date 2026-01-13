@@ -54,7 +54,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Demos
 
-- Bitcoin UI + AI
+- [Bitcoin UI + AI](https://bitcoinui.ai)
 
 #### News
 
@@ -67,6 +67,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - [Implementation of SwiftSync bitcoin#34004](https://github.com/bitcoin/bitcoin/pull/34004)
 - [Bitcoin Core wallet migration bug](https://gist.github.com/bitschmidty/5144c098c522c0144adfc24d9e1bb9ec)
+  - [wallet: fix unnamed legacy wallet migration failure #34156](https://github.com/bitcoin/bitcoin/pull/34156)
 - [Replace cluster linearization algorithm with SFL bitcoin#32545](https://github.com/bitcoin/bitcoin/pull/32545)
 
 ##### BDK
