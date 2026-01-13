@@ -52,8 +52,9 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 - [Nashville Energy & Mining Summit 2026](https://www.meetup.com/bitcoinpark/events/310812625), Thur Jan 22 @ 8am
 - [Nostr Nights #1](https://www.meetup.com/bitcoinpark/events/312318620) Mon Feb 2 @ 6pm
 
-#### News
+#### Demos
 
+- Bitcoin UI + AI
 
 #### Bitcoin Projects
 
@@ -61,10 +62,6 @@ Core
 
 - [Implementation of SwiftSync bitcoin#34004](https://github.com/bitcoin/bitcoin/pull/34004)
 - [Bitcoin Core wallet migration bug](https://gist.github.com/bitschmidty/5144c098c522c0144adfc24d9e1bb9ec)
-
-
-#### Lightning Projects
-
 
 #### New Work / Research
 
