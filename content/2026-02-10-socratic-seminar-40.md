@@ -47,6 +47,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 #### News
 
 - [Fedi is now fully open source](https://x.com/fedibtc/status/2007139666328465726)
+- [Arbedout's Sigbash tool for confidential cosigning with musig2](https://x.com/arbedout/status/2020885323778044259)
 
 #### Mailing List Discussion
 
@@ -82,6 +83,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - [Programming Lightning Course](https://github.com/Beige-Coffee/programming-lightning-payment-channels)
 - [A Mathematical Theory of Payment Channel Networks](https://arxiv.org/pdf/2601.04835)
+- [Lightning Sandbox from Alby](https://x.com/getAlby/status/2018688634774225016)
 
 #### New Work / Research
 
