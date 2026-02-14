@@ -81,7 +81,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
   - [bitcoin++ - F2Pool and MARA are mining Taproot Annexes](https://insider.btcpp.dev/p/f2pool-and-mara-are-mining-taproot)
   - [labitbu](https://mempool.space/tx/f08fd61d48f79eeb0c4bc9e58f2d7ecad0e20e5d6411b588590cb0480c8e7fbe)
 - [New Sankey visual on stratum.work](https://stratum.work/sankey)
-- [Interactive explainer of wallet seed phrases, entropy, and BIP39](https://bennet.org/blog/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/)
+- [Interactive explainer of wallet seed phrases, entropy, and BIP39](https://bennet.org/learn/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/)
 
 #### Lightning Projects
 
