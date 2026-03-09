@@ -52,6 +52,10 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - ["A Layman's Guide to BIP-110" by J Lopp](https://blog.lopp.net/a-laymans-guide-to-bip-110/)
 - [localprobe](https://0xb10c.github.io/localprobe/)
+- [Parasite Pool hits block](https://x.com/parasite_wtf/status/2027782442812125340)
+- AI + Bitcoin
+  - [Open-Source Agents Need to Get Serious About Payments](https://x.com/thebluematt/status/2026667191475777727)
+  - [BPI: Which money do AI agents prefer?](https://www.moneyforai.org)
 
 #### Mailing List Discussion
 
@@ -69,9 +73,18 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 - ["Add spent/created_txouts to SPK and Keychain TxOut indexes" bdk#2081](https://github.com/bitcoindevkit/bdk/pull/2081)
 
+##### rust-bitcoin
+
+- [Moving all the rust-bitcoin crates off of Github](https://github.com/rust-bitcoin/rust-bitcoin/discussions/5714)
+
 #### Lightning Projects
 
 - [Gossip Observer: New project to monitor the Lightning P2P network](https://delvingbitcoin.org/t/gossip-observer-new-project-to-monitor-the-lightning-p2p-network/2105)
+
+##### ARK
+
+- [hArk](https://blog.second.tech/hark-explained/)
+- [arke](https://arke.cash)
 
 #### New Work / Research
 
