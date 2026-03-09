@@ -50,7 +50,9 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### News
 
-- ["A Layman's Guide to BIP-110" by J Lopp](https://blog.lopp.net/a-laymans-guide-to-bip-110/)
+- BIP-110 Commentary
+  - ["A Layman's Guide to BIP-110" by J Lopp](https://blog.lopp.net/a-laymans-guide-to-bip-110/)
+  - ["Bitcoin Has a Squatter Problem. BIP 110 Is the Eviction Notice" by K Santiago](https://privkey.substack.com/p/bitcoin-has-a-squatter-problem-bip)
 - [localprobe](https://0xb10c.github.io/localprobe/)
 - [Parasite Pool hits block](https://x.com/parasite_wtf/status/2027782442812125340)
 - AI + Bitcoin
