@@ -91,6 +91,8 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 #### New Work/Research
 
 * [A Spiral report on the adoption and mindset of AI usage in open-source development](https://spiralbtc.substack.com/p/metacognition-is-the-ai-skill-of)
+  * [Delving Bitcoin Using AI tooling for code review by ajtowns](https://delvingbitcoin.org/t/using-ai-tooling-for-code-review/2277)
+  * [I don't want your PRs anymore by dpc](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
 * [Merge bip110-core-pr2 from dathonohm/bitcoin (BIP-110)](https://github.com/Rob1Ham/bitcoin/pull/1)
 * [Zeus: "LIGHTNING ECONOMICS: The Bridge Between Bitcoin's Two Identities"](https://zeusln.com/blog/lightning-economics-the-bridge-between-bitcoins-two-identities/)
 * [BIP-0322: clarify motivation/purpose, add prefix, clarify Proof of Funds format, describe PSBT based signing
