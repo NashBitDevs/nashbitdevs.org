@@ -49,6 +49,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 * [SatsBuddy](https://github.com/reez/SatsBuddy) Demo
   * [iOS TestFlight](https://testflight.apple.com/join/Pq7KwWzB) 
   * [SatsBuddyAndroid](https://github.com/r1b2ns/SatsBuddyAndroid)
+* BTC Medusa by V+R
 
 **Events**
 
