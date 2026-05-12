@@ -55,6 +55,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 * [Thr May 14 @ 5 pm: 101 Intro to Bitcoin](https://www.meetup.com/bitcoinpark/events/311846893)
 * [Thr May 21 @ 6 pm: Music City Rust Meetup](https://www.meetup.com/music-city-rust-developers/events/314359076)
 * [Fri May 22 @ 4:30 pm: Bitcoin Pizza Day at The Park](https://www.meetup.com/bitcoinpark/events/311846893)
+* [Wed May 27: Bitcoin & Health Coffee Meetup](https://www.meetup.com/bitcoinpark/events/314752516)
 * [Wed-Thr May 27-28: bitcoin++ Vienna](https://btcplusplus.dev/conf/vienna)
 * [Thr May 28 @ 5:30 pm: Philosophy for Freedom In the Age of AI](https://luma.com/dzqnk6lx)
 * [Sat May 30 @ 9 am: CLAWS & COFFEE](https://luma.com/iranbxr9)
