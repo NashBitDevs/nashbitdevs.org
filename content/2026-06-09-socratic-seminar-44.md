@@ -72,7 +72,6 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 #### Lightning Projects
 
-* [Introducing](https://medium.com/cube-bitcoin/introducing-cube-8b3702e470a5) [Cube](https://github.com/cube-btc/cube)
 * [Vulnerability Disclosure: Assertion DoS in Core Lightning](https://delvingbitcoin.org/t/vulnerability-disclosure-assertion-dos-in-core-lightning/2507)
 * [Eclair 0.14.0](https://github.com/ACINQ/eclair/blob/master/docs/release-notes/eclair-v0.14.0.md)
 * [Add support for zero-fee commitment format eclair#3192](https://github.com/ACINQ/eclair/pull/3192)
@@ -80,3 +79,4 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 #### New Work/Research
 
 * [PlebGPT](https://x.com/rot13maxi/status/2061245699178598587)
+* [Introducing](https://medium.com/cube-bitcoin/introducing-cube-8b3702e470a5) [Cube](https://github.com/cube-btc/cube)
