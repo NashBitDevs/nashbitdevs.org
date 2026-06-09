@@ -62,6 +62,7 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 * ["Square Customer selected Bitcoin, Tap to Pay"](https://squareup.com/us/en/release-notes/release-notes-june-4th)
 * [BOSS Challenge Portfolio Projects](https://bosschallenge.xyz/portfolioprojects)
+* [Bark now on bitcoin mainnet](https://blog.second.tech/bark-now-on-bitcoin-mainnet/)
 
 #### Bitcoin Projects
 
