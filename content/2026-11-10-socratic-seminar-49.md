@@ -57,4 +57,4 @@ sponsors [Bitcoin Park](https://bitcoinpark.co/) for hosting us and for providin
 
 
 **New Work/Research**
-
+- [Silent Payments in the Coinbase](https://delvingbitcoin.org/t/silent-payments-coinbase/2833)
